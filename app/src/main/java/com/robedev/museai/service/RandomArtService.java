@@ -29,7 +29,7 @@ import java.util.concurrent.TimeUnit;
 public class RandomArtService {
 
     private static final int MAX_ID = 471581;  // Rango máximo de IDs
-    private static final int NUM_OBJECTS = 10; // Número de objetos a obtener
+    private static final int NUM_OBJECTS = 40; // Número de objetos a obtener
     private final MetMuseumService metMuseumService;
 
     private static final int PETICIONES_POR_SEGUNDO = 80;
@@ -46,7 +46,7 @@ public class RandomArtService {
 
     public List<Artwork> obtenerArtworksPorIdsAleatorios() throws InterruptedException, IOException {
         // Generamos una lista de IDs aleatorios
-        List<String> randomIds = generarIdsAleatorios(40); // Cambia la cantidad según sea necesario
+        List<String> randomIds = generarIdsAleatorios(NUM_OBJECTS); // Cambia la cantidad según sea necesario
         List<JSONObject> artworksJson = new ArrayList<>();  // Cambiado a List<JSONObject>
 
         // Creamos un ExecutorService con un número adecuado de hilos

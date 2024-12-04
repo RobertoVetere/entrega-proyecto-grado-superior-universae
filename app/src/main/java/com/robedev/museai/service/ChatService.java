@@ -22,7 +22,7 @@ import okhttp3.ResponseBody;
 public class ChatService {
 
     private static final String TAG = "ChatService";
-    private static final String BASE_URL = "https://turisai-backend-production.up.railway.app/api";
+    private static final String BASE_URL = "URL_A_TU_BACKEND";
     private final OkHttpClient client;
     private final MessageHistoryService messageHistoryService;
     private StringBuilder accumulatedResponse;
