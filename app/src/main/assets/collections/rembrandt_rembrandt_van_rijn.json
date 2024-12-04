@@ -1,0 +1,1372 @@
+[
+    {
+        "objectID": 337491,
+        "isHighlight": true,
+        "accessionNumber": "29.100.939",
+        "accessionYear": "1929",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP832659.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP832659.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/dp/original/dp29.100.939.R.jpg",
+            "https://images.metmuseum.org/CRDImages/dp/original/h1_29.100.939.jpg",
+            "https://images.metmuseum.org/CRDImages/dp/original/DT251233.jpg",
+            "https://images.metmuseum.org/CRDImages/dp/original/DP823930.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162297,
+                "role": "Artist",
+                "name": "Rembrandt (Rembrandt van Rijn)",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Drawing",
+        "title": "Cottage among Trees",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Rembrandt (Rembrandt van Rijn)",
+        "artistDisplayBio": "Dutch, Leiden 1606–1669 Amsterdam",
+        "artistSuffix": "",
+        "artistAlphaSort": "Rembrandt (Rembrandt van Rijn)",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1606",
+        "artistEndDate": "1669",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+        "objectDate": "ca. 1650",
+        "objectBeginDate": 1645,
+        "objectEndDate": 1655,
+        "medium": "Pen and brown ink, brush and brown wash, on paper washed with brown",
+        "dimensions": "6 3/4 x 10 7/8 in.  (17.1 x 27.6 cm); vertical strip 6 3/4 x 1 1/4 in. (17.2 x 3.2 cm) added by artist to the sheet at right.",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 17.1,
+                    "Width": 27.6
+                }
+            }
+        ],
+        "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/337491",
+        "tags": [
+            {
+                "term": "Houses",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300005433",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q3947"
+            },
+            {
+                "term": "Landscapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29384825",
+        "isTimelineWork": true,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 437398,
+        "isHighlight": false,
+        "accessionNumber": "26.101.10",
+        "accessionYear": "1926",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP120785.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP120785.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ep/original/SF Flora x-ray.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162297,
+                "role": "Artist",
+                "name": "Rembrandt (Rembrandt van Rijn)",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Flora",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Rembrandt (Rembrandt van Rijn)",
+        "artistDisplayBio": "Dutch, Leiden 1606–1669 Amsterdam",
+        "artistSuffix": "",
+        "artistAlphaSort": "Rembrandt (Rembrandt van Rijn)",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1606",
+        "artistEndDate": "1669",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+        "objectDate": "ca. 1654",
+        "objectBeginDate": 1649,
+        "objectEndDate": 1659,
+        "medium": "Oil on canvas",
+        "dimensions": "39 3/8 x 36 1/8 in. (100 x 91.8 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 100,
+                    "Width": 91.8
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 12.7,
+                    "Height": 138.4303,
+                    "Width": 125.7303
+                }
+            }
+        ],
+        "creditLine": "Gift of Archer M. Huntington, in memory of his father, Collis Potter Huntington, 1926",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437398",
+        "tags": [
+            {
+                "term": "Profiles",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Flowers",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q3784800",
+        "isTimelineWork": true,
+        "GalleryNumber": "616"
+    },
+    {
+        "objectID": 459210,
+        "isHighlight": true,
+        "accessionNumber": "1975.1.799",
+        "accessionYear": "1975",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP359033.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/rl/web-large/DP359033.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/rl/original/DT3347.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162297,
+                "role": "Artist",
+                "name": "Rembrandt (Rembrandt van Rijn)",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+                "gender": ""
+            }
+        ],
+        "department": "Robert Lehman Collection",
+        "objectName": "Drawing",
+        "title": "Satire on Art Criticism",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Rembrandt (Rembrandt van Rijn)",
+        "artistDisplayBio": "Dutch, Leiden 1606–1669 Amsterdam",
+        "artistSuffix": "",
+        "artistAlphaSort": "Rembrandt (Rembrandt van Rijn)",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1606",
+        "artistEndDate": "1669",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+        "objectDate": "1644",
+        "objectBeginDate": 1644,
+        "objectEndDate": 1644,
+        "medium": "Pen and brown ink corrected with white.",
+        "dimensions": "6 1/8 x 7 15/16 in.  (15.5 x 20.1 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 15.5,
+                    "Width": 20.1
+                }
+            }
+        ],
+        "creditLine": "Robert Lehman Collection, 1975",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2020-11-13T04:36:06.69Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/459210",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20183149",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+
+    {
+        "objectID": 437399,
+        "isHighlight": false,
+        "accessionNumber": "14.40.621",
+        "accessionYear": "1914",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145909.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145909.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162297,
+                "role": "Artist",
+                "name": "Rembrandt (Rembrandt van Rijn)",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Man with a Magnifying Glass",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Rembrandt (Rembrandt van Rijn)",
+        "artistDisplayBio": "Dutch, Leiden 1606–1669 Amsterdam",
+        "artistSuffix": "",
+        "artistAlphaSort": "Rembrandt (Rembrandt van Rijn)",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1606",
+        "artistEndDate": "1669",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+        "objectDate": "early 1660s",
+        "objectBeginDate": 1660,
+        "objectEndDate": 1663,
+        "medium": "Oil on canvas",
+        "dimensions": "36 x 29 1/4 in. (91.4 x 74.3 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 91.4,
+                    "Width": 74.3
+                }
+            }
+        ],
+        "creditLine": "Bequest of Benjamin Altman, 1913",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437399",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19904868",
+        "isTimelineWork": true,
+        "GalleryNumber": "616"
+    },
+    {
+        "objectID": 347895,
+        "isHighlight": false,
+        "accessionNumber": "29.100.934",
+        "accessionYear": "1929",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP800564.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP800564.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/dp/original/DT2769.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162297,
+                "role": "Artist",
+                "name": "Rembrandt (Rembrandt van Rijn)",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Drawing",
+        "title": "Nathan Admonishing David",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Rembrandt (Rembrandt van Rijn)",
+        "artistDisplayBio": "Dutch, Leiden 1606–1669 Amsterdam",
+        "artistSuffix": "",
+        "artistAlphaSort": "Rembrandt (Rembrandt van Rijn)",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1606",
+        "artistEndDate": "1669",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+        "objectDate": "1650–55",
+        "objectBeginDate": 1650,
+        "objectEndDate": 1655,
+        "medium": "Pen and brown ink, heightened with white gouache",
+        "dimensions": "sheet: 7 5/16 x 10 in. (18.6 x 25.4 cm)",
+        "measurements": [
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 18.6,
+                    "Width": 25.4
+                }
+            }
+        ],
+        "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/347895",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "David",
+                "AAT_URL": "http://vocab.getty.edu/page/ia/901001014",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q41370"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 437394,
+        "isHighlight": true,
+        "accessionNumber": "61.198",
+        "accessionYear": "1961",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-30758-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-30758-001.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162297,
+                "role": "Artist",
+                "name": "Rembrandt (Rembrandt van Rijn)",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Aristotle with a Bust of Homer",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Rembrandt (Rembrandt van Rijn)",
+        "artistDisplayBio": "Dutch, Leiden 1606–1669 Amsterdam",
+        "artistSuffix": "",
+        "artistAlphaSort": "Rembrandt (Rembrandt van Rijn)",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1606",
+        "artistEndDate": "1669",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+        "objectDate": "1653",
+        "objectBeginDate": 1653,
+        "objectEndDate": 1653,
+        "medium": "Oil on canvas",
+        "dimensions": "56 1/2 x 53 3/4 in. (143.5 x 136.5 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 143.5,
+                    "Width": 136.5
+                }
+            },
+            {
+                "elementName": "Other",
+                "elementDescription": "Picture + Frame (F.61.198)",
+                "elementMeasurements": {
+                    "Weight": 65.31797
+                }
+            }
+        ],
+        "creditLine": "Purchase, special contributions and funds given or bequeathed by friends of the Museum, 1961",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-19T04:54:04.793Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437394",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q2404992",
+        "isTimelineWork": true,
+        "GalleryNumber": "616"
+    },
+    {
+        "objectID": 437395,
+        "isHighlight": false,
+        "accessionNumber": "49.7.35",
+        "accessionYear": "1949",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP121330.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP121330.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ep/original/LC-49_7_35-2.jpg",
+            "https://images.metmuseum.org/CRDImages/ep/original/LC-49_7_35-3.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162297,
+                "role": "Artist",
+                "name": "Rembrandt (Rembrandt van Rijn)",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "The Standard Bearer (Floris Soop, 1604–1657)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Rembrandt (Rembrandt van Rijn)",
+        "artistDisplayBio": "Dutch, Leiden 1606–1669 Amsterdam",
+        "artistSuffix": "",
+        "artistAlphaSort": "Rembrandt (Rembrandt van Rijn)",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1606",
+        "artistEndDate": "1669",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+        "objectDate": "1654",
+        "objectBeginDate": 1654,
+        "objectEndDate": 1654,
+        "medium": "Oil on canvas",
+        "dimensions": "55 1/4 × 45 1/4 in. (140.3 × 114.9 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 140.3,
+                    "Width": 114.9
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 14.2875,
+                    "Height": 180.3404,
+                    "Width": 156.8453
+                }
+            }
+        ],
+        "creditLine": "The Jules Bache Collection, 1949",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437395",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q18649144",
+        "isTimelineWork": true,
+        "GalleryNumber": "616"
+    },
+    {
+        "objectID": 437389,
+        "isHighlight": false,
+        "accessionNumber": "32.100.23",
+        "accessionYear": "1932",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146454.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP146454.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162297,
+                "role": "Artist",
+                "name": "Rembrandt (Rembrandt van Rijn)",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Bellona",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Rembrandt (Rembrandt van Rijn)",
+        "artistDisplayBio": "Dutch, Leiden 1606–1669 Amsterdam",
+        "artistSuffix": "",
+        "artistAlphaSort": "Rembrandt (Rembrandt van Rijn)",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1606",
+        "artistEndDate": "1669",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+        "objectDate": "1633",
+        "objectBeginDate": 1633,
+        "objectEndDate": 1633,
+        "medium": "Oil on canvas",
+        "dimensions": "50 x 38 3/8 in. (127 x 97.5 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 127,
+                    "Width": 97.5
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 6.985,
+                    "Height": 163.8303,
+                    "Width": 134.6203
+                }
+            },
+            {
+                "elementName": "Other",
+                "elementDescription": "Picture + Frame (F.32.100.23A)",
+                "elementMeasurements": {
+                    "Weight": 27.669418
+                }
+            }
+        ],
+        "creditLine": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437389",
+        "tags": [
+            {
+                "term": "Armor",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300226591",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q20793164"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Goddess",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300343852",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q205985"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911626",
+        "isTimelineWork": false,
+        "GalleryNumber": "616"
+    },
+    {
+        "objectID": 437402,
+        "isHighlight": false,
+        "accessionNumber": "14.40.622",
+        "accessionYear": "1914",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145910.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145910.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162297,
+                "role": "Artist",
+                "name": "Rembrandt (Rembrandt van Rijn)",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Woman with a Pink",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Rembrandt (Rembrandt van Rijn)",
+        "artistDisplayBio": "Dutch, Leiden 1606–1669 Amsterdam",
+        "artistSuffix": "",
+        "artistAlphaSort": "Rembrandt (Rembrandt van Rijn)",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1606",
+        "artistEndDate": "1669",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+        "objectDate": "early 1660s",
+        "objectBeginDate": 1660,
+        "objectEndDate": 1663,
+        "medium": "Oil on canvas",
+        "dimensions": "36 1/4 x 29 3/8 in. (92.1 x 74.6 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 92.1,
+                    "Width": 74.6
+                }
+            }
+        ],
+        "creditLine": "Bequest of Benjamin Altman, 1913",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437402",
+        "tags": [
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Flowers",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q1057817",
+        "isTimelineWork": true,
+        "GalleryNumber": "616"
+    },
+    {
+        "objectID": 437393,
+        "isHighlight": false,
+        "accessionNumber": "14.40.651",
+        "accessionYear": "1914",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145915.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145915.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ep/original/SFBathshebaMoreau.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162297,
+                "role": "Artist",
+                "name": "Rembrandt (Rembrandt van Rijn)",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "The Toilet of Bathsheba",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Rembrandt (Rembrandt van Rijn)",
+        "artistDisplayBio": "Dutch, Leiden 1606–1669 Amsterdam",
+        "artistSuffix": "",
+        "artistAlphaSort": "Rembrandt (Rembrandt van Rijn)",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1606",
+        "artistEndDate": "1669",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+        "objectDate": "1643",
+        "objectBeginDate": 1643,
+        "objectEndDate": 1643,
+        "medium": "Oil on wood",
+        "dimensions": "22 1/2 x 30 in. (57.2 x 76.2 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 57.2,
+                    "Width": 76.2
+                }
+            }
+        ],
+        "creditLine": "Bequest of Benjamin Altman, 1913",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437393",
+        "tags": [
+            {
+                "term": "Female Nudes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+            },
+            {
+                "term": "Bathsheba",
+                "AAT_URL": "http://vocab.getty.edu/page/ia/901000627",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q272277"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19863030",
+        "isTimelineWork": false,
+        "GalleryNumber": "616"
+    },
+    {
+        "objectID": 349842,
+        "isHighlight": false,
+        "accessionNumber": "1972.118.285",
+        "accessionYear": "1972",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP800565.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP800565.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162297,
+                "role": "Artist",
+                "name": "School of Rembrandt (Rembrandt van Rijn)",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+                "gender": ""
+            },
+            {
+                "constituentID": 162096,
+                "role": "Artist",
+                "name": "After Andrea Mantegna",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004218",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5681",
+                "gender": ""
+            },
+            {
+                "constituentID": 162297,
+                "role": "Former Attribution",
+                "name": "Rembrandt (Rembrandt van Rijn)",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Drawing",
+        "title": "The Entombment, after Mantegna",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "School of",
+        "artistDisplayName": "Rembrandt (Rembrandt van Rijn)",
+        "artistDisplayBio": "Dutch, Leiden 1606–1669 Amsterdam",
+        "artistSuffix": "",
+        "artistAlphaSort": "Rembrandt (Rembrandt van Rijn)",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1606",
+        "artistEndDate": "1669",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+        "objectDate": "17th century",
+        "objectBeginDate": 1620,
+        "objectEndDate": 1669,
+        "medium": "Pen and brown ink, brown wash, over preliminary lines in red chalk, heightened with white on Japanese paper",
+        "dimensions": "sheet: 10 1/2 x 15 3/8 in. (26.7 x 39 cm)",
+        "measurements": [
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 26.7,
+                    "Width": 39
+                }
+            }
+        ],
+        "creditLine": "Bequest of Walter C. Baker, 1971",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/349842",
+        "tags": [
+            {
+                "term": "Sadness",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300055166",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q169251"
+            },
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Entombment",
+                "AAT_URL": "http://vocab.getty.edu/page/ia/901001053",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q51637"
+            },
+            {
+                "term": "Christ",
+                "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 437392,
+        "isHighlight": false,
+        "accessionNumber": "29.100.1",
+        "accessionYear": "1929",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145921.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145921.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ep/original/LC-29_100_1-2.jpg",
+            "https://images.metmuseum.org/CRDImages/ep/original/LC-29_100_1-3.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162297,
+                "role": "Artist",
+                "name": "Rembrandt (Rembrandt van Rijn)",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Herman Doomer (ca. 1595–1650)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Rembrandt (Rembrandt van Rijn)",
+        "artistDisplayBio": "Dutch, Leiden 1606–1669 Amsterdam",
+        "artistSuffix": "",
+        "artistAlphaSort": "Rembrandt (Rembrandt van Rijn)",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1606",
+        "artistEndDate": "1669",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+        "objectDate": "1640",
+        "objectBeginDate": 1640,
+        "objectEndDate": 1640,
+        "medium": "Oil on wood",
+        "dimensions": "29 5/8 x 21 3/4 in. (75.2 x 55.2 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 75.2,
+                    "Width": 55.2
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 7.62,
+                    "Height": 96.5202,
+                    "Width": 76.2002
+                }
+            }
+        ],
+        "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437392",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q18760265",
+        "isTimelineWork": true,
+        "GalleryNumber": "616"
+    },
+    {
+        "objectID": 437386,
+        "isHighlight": false,
+        "accessionNumber": "29.100.3",
+        "accessionYear": "1929",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP121326.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP121326.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162297,
+                "role": "Artist",
+                "name": "Rembrandt (Rembrandt van Rijn)",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Portrait of a Man, probably a Member of the Van Beresteyn Family",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Rembrandt (Rembrandt van Rijn)",
+        "artistDisplayBio": "Dutch, Leiden 1606–1669 Amsterdam",
+        "artistSuffix": "",
+        "artistAlphaSort": "Rembrandt (Rembrandt van Rijn)",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1606",
+        "artistEndDate": "1669",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+        "objectDate": "1632",
+        "objectBeginDate": 1632,
+        "objectEndDate": 1632,
+        "medium": "Oil on canvas",
+        "dimensions": "44 x 35 in. (111.8 x 88.9 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 111.8,
+                    "Width": 88.9
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 12.7,
+                    "Height": 148.5903,
+                    "Width": 125.7303
+                }
+            }
+        ],
+        "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437386",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20167032",
+        "isTimelineWork": false,
+        "GalleryNumber": "958"
+    },
+    {
+        "objectID": 437388,
+        "isHighlight": false,
+        "accessionNumber": "29.100.4",
+        "accessionYear": "1929",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145399.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP145399.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162297,
+                "role": "Artist",
+                "name": "Rembrandt (Rembrandt van Rijn)",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Portrait of a Woman, probably a Member of the Van Beresteyn Family",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Rembrandt (Rembrandt van Rijn)",
+        "artistDisplayBio": "Dutch, Leiden 1606–1669 Amsterdam",
+        "artistSuffix": "",
+        "artistAlphaSort": "Rembrandt (Rembrandt van Rijn)",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1606",
+        "artistEndDate": "1669",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+        "objectDate": "1632",
+        "objectBeginDate": 1632,
+        "objectEndDate": 1632,
+        "medium": "Oil on canvas",
+        "dimensions": "44 × 35 in. (111.8 × 88.9 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 111.8,
+                    "Width": 88.9
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 12.7,
+                    "Height": 148.5903,
+                    "Width": 125.7303
+                }
+            },
+            {
+                "elementName": "Glazing",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 113.98273,
+                    "Thickness": 0.47625095,
+                    "Width": 90.48768
+                }
+            }
+        ],
+        "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437388",
+        "tags": [
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20167179",
+        "isTimelineWork": false,
+        "GalleryNumber": "958"
+    }
+]

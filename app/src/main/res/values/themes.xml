@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.MuseAI" parent="@style/Theme.Leanback">
+    </style>
+</resources>

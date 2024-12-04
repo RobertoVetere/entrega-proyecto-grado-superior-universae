@@ -1,0 +1,791 @@
+[
+    {
+        "objectID": 438015,
+        "isHighlight": false,
+        "accessionNumber": "2002.62.3",
+        "accessionYear": "2002",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1945.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1945.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162405,
+                "role": "Artist",
+                "name": "Georges Seurat",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008873",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34013",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Gray Weather, Grande Jatte",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Georges Seurat",
+        "artistDisplayBio": "French, Paris 1859–1891 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Seurat, Georges",
+        "artistNationality": "French",
+        "artistBeginDate": "1859",
+        "artistEndDate": "1891",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q34013",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008873",
+        "objectDate": "ca. 1886–88",
+        "objectBeginDate": 1886,
+        "objectEndDate": 1888,
+        "medium": "Oil on canvas",
+        "dimensions": "27 3/4 x 34 in. (70.5 x 86.4 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 70.5,
+                    "Width": 86.4
+                }
+            }
+        ],
+        "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 2002, Bequest of Walter H. Annenberg, 2002",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/438015",
+        "tags": [
+            {
+                "term": "Rivers",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+            },
+            {
+                "term": "Boats",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905268",
+        "isTimelineWork": false,
+        "GalleryNumber": "823"
+    },
+    {
+        "objectID": 339752,
+        "isHighlight": false,
+        "accessionNumber": "67.187.34",
+        "accessionYear": "1967",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP808127.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP808127.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/dp/original/DP144109.jpg",
+            "https://images.metmuseum.org/CRDImages/dp/original/67.187.34.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162405,
+                "role": "Artist",
+                "name": "Georges Seurat",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008873",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34013",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Drawing",
+        "title": "Peasants",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Georges Seurat",
+        "artistDisplayBio": "French, Paris 1859–1891 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Seurat, Georges",
+        "artistNationality": "French",
+        "artistBeginDate": "1859",
+        "artistEndDate": "1891",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q34013",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008873",
+        "objectDate": "1881–84",
+        "objectBeginDate": 1881,
+        "objectEndDate": 1884,
+        "medium": "Conté crayon",
+        "dimensions": "9 13/16 x 12 7/16 in. (24.8 x 31.6 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 31.6
+                }
+            }
+        ],
+        "creditLine": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/339752",
+        "tags": [
+            {
+                "term": "Farmers",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025607",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q131512"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 339751,
+        "isHighlight": true,
+        "accessionNumber": "61.101.16",
+        "accessionYear": "1961",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP158522.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP158522.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/dp/original/172701.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162405,
+                "role": "Artist",
+                "name": "Georges Seurat",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008873",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34013",
+                "gender": ""
+            },
+            {
+                "constituentID": 162847,
+                "role": "Sitter",
+                "name": "Edmond-François Aman-Jean",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012380",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q576570",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Drawing",
+        "title": "Aman-Jean (Portrait of Edmond François Aman-Jean)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Georges Seurat",
+        "artistDisplayBio": "French, Paris 1859–1891 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Seurat, Georges",
+        "artistNationality": "French",
+        "artistBeginDate": "1859",
+        "artistEndDate": "1891",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q34013",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008873",
+        "objectDate": "1882–83",
+        "objectBeginDate": 1882,
+        "objectEndDate": 1883,
+        "medium": "Conté crayon on Michallet paper",
+        "dimensions": "24 1/2 × 18 11/16 in. (62.2 × 47.5 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 62.2,
+                    "Width": 47.5
+                }
+            }
+        ],
+        "creditLine": "Bequest of Stephen C. Clark, 1960",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-05T04:54:03.507Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/339751",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Profiles",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+            },
+            {
+                "term": "Artists",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025103",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q483501"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29384922",
+        "isTimelineWork": true,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 437658,
+        "isHighlight": true,
+        "accessionNumber": "51.112.6",
+        "accessionYear": "1951",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP259921.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP259921.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162405,
+                "role": "Artist",
+                "name": "Georges Seurat",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008873",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34013",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Study for \"A Sunday on La Grande Jatte\"",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Georges Seurat",
+        "artistDisplayBio": "French, Paris 1859–1891 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Seurat, Georges",
+        "artistNationality": "French",
+        "artistBeginDate": "1859",
+        "artistEndDate": "1891",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q34013",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008873",
+        "objectDate": "1884",
+        "objectBeginDate": 1884,
+        "objectEndDate": 1884,
+        "medium": "Oil on canvas",
+        "dimensions": "27 3/4 x 41 in. (70.5 x 104.1 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 70.5,
+                    "Width": 104.1
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 6.0325,
+                    "Height": 92.7102,
+                    "Width": 127.0003
+                }
+            },
+            {
+                "elementName": "Glazing",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 72.70764,
+                    "Width": 105.727715
+                }
+            }
+        ],
+        "creditLine": "Bequest of Sam A. Lewisohn, 1951",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437658",
+        "tags": [
+            {
+                "term": "Leisure",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300138173",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q180910"
+            },
+            {
+                "term": "Children",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+            },
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Dogs",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+            },
+            {
+                "term": "Monkeys",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300250028",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q1367"
+            },
+            {
+                "term": "Rivers",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q3976307",
+        "isTimelineWork": true,
+        "GalleryNumber": "825"
+    },
+    {
+        "objectID": 339760,
+        "isHighlight": false,
+        "accessionNumber": "1976.243",
+        "accessionYear": "1976",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP808126.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP808126.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/dp/original/DP149438.jpg",
+            "https://images.metmuseum.org/CRDImages/dp/original/214838.jpg",
+            "https://images.metmuseum.org/CRDImages/dp/original/1976.243.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162405,
+                "role": "Artist",
+                "name": "Georges Seurat",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008873",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34013",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Drawing",
+        "title": "Courbevoie: Factories by Moonlight",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Georges Seurat",
+        "artistDisplayBio": "French, Paris 1859–1891 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Seurat, Georges",
+        "artistNationality": "French",
+        "artistBeginDate": "1859",
+        "artistEndDate": "1891",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q34013",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008873",
+        "objectDate": "1882–83",
+        "objectBeginDate": 1882,
+        "objectEndDate": 1883,
+        "medium": "Conté crayon",
+        "dimensions": "9 5/16 x 12 1/4 in.  (23.6 x 31.2 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 23.6,
+                    "Width": 31.1
+                }
+            }
+        ],
+        "creditLine": "Gift of Alexander and Gregoire Tarnopol, 1976",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/339760",
+        "tags": [
+            {
+                "term": "Factories",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300006232",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q83405"
+            },
+            {
+                "term": "Moon",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300386951",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q405"
+            },
+            {
+                "term": "Night",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300133095",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q575"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 334174,
+        "isHighlight": false,
+        "accessionNumber": "55.21.4",
+        "accessionYear": "1955",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DT205022.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DT205022.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/dp/original/55.21.4.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162405,
+                "role": "Artist",
+                "name": "Georges Seurat",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008873",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34013",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Drawing",
+        "title": "A Woman Fishing",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Georges Seurat",
+        "artistDisplayBio": "French, Paris 1859–1891 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Seurat, Georges",
+        "artistNationality": "French",
+        "artistBeginDate": "1859",
+        "artistEndDate": "1891",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q34013",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008873",
+        "objectDate": "1884",
+        "objectBeginDate": 1884,
+        "objectEndDate": 1884,
+        "medium": "Conté crayon",
+        "dimensions": "12 1/8 x 9 3/8 in. (30.8 x 23.8 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 23.5
+                }
+            }
+        ],
+        "creditLine": "Purchase, Joseph Pulitzer Bequest, 1951; acquired from The Museum of Modern Art, Lillie P. Bliss Collection",
+        "geographyType": "Made in",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "France",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/334174",
+        "tags": [
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Fishing",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300239470",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q14373"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 334652,
+        "isHighlight": false,
+        "accessionNumber": "55.21.1",
+        "accessionYear": "1955",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP808124.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP808124.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/dp/original/DR15.jpg",
+            "https://images.metmuseum.org/CRDImages/dp/original/158578.jpg",
+            "https://images.metmuseum.org/CRDImages/dp/original/DT200589.jpg",
+            "https://images.metmuseum.org/CRDImages/dp/original/55.21.1.jpg",
+            "https://images.metmuseum.org/CRDImages/dp/original/DP823932.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162405,
+                "role": "Artist",
+                "name": "Georges Seurat",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008873",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34013",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Drawing",
+        "title": "Embroidery; The Artist's Mother",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Georges Seurat",
+        "artistDisplayBio": "French, Paris 1859–1891 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Seurat, Georges",
+        "artistNationality": "French",
+        "artistBeginDate": "1859",
+        "artistEndDate": "1891",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q34013",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008873",
+        "objectDate": "1882–83",
+        "objectBeginDate": 1882,
+        "objectEndDate": 1883,
+        "medium": "Conté crayon on Michallet paper",
+        "dimensions": "12 5/16 x 9 7/16 in. (31.2 x 24.1 cm)",
+        "measurements": null,
+        "creditLine": "Purchase, Joseph Pulitzer Bequest, 1951; acquired from The Museum of Modern Art, Lillie P. Bliss Collection",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/334652",
+        "tags": [
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": true,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 437654,
+        "isHighlight": true,
+        "accessionNumber": "61.101.17",
+        "accessionYear": "1961",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP375450_cropped.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP375450_cropped.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ep/original/LC-61_101_17-fig7.jpg.jpg",
+            "https://images.metmuseum.org/CRDImages/ep/original/LC-61_101_17-fig8.jpg.jpg",
+            "https://images.metmuseum.org/CRDImages/ep/original/LC-61_101_17-fig9.jpg.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162405,
+                "role": "Artist",
+                "name": "Georges Seurat",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008873",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34013",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Circus Sideshow (Parade de cirque)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Georges Seurat",
+        "artistDisplayBio": "French, Paris 1859–1891 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Seurat, Georges",
+        "artistNationality": "French",
+        "artistBeginDate": "1859",
+        "artistEndDate": "1891",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q34013",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500008873",
+        "objectDate": "1887–88",
+        "objectBeginDate": 1887,
+        "objectEndDate": 1888,
+        "medium": "Oil on canvas",
+        "dimensions": "39 1/4 x 59 in. (99.7 x 149.9 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 99.7,
+                    "Width": 149.9
+                }
+            }
+        ],
+        "creditLine": "Bequest of Stephen C. Clark, 1960",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-11T04:53:25.173Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437654",
+        "tags": [
+            {
+                "term": "Musical Instruments",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300041620",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q34379"
+            },
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Circus",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300069235",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q47928"
+            },
+            {
+                "term": "Musicians",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025666",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q639669"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q3823444",
+        "isTimelineWork": true,
+        "GalleryNumber": "825"
+    }
+]

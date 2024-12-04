@@ -1,0 +1,958 @@
+[
+    {
+        "objectID": 437990,
+        "isHighlight": false,
+        "accessionNumber": "1997.60.2",
+        "accessionYear": "1997",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1944.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1944.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161761,
+                "role": "Artist",
+                "name": "Paul Cézanne",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Seated Peasant",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Paul Cézanne",
+        "artistDisplayBio": "French, Aix-en-Provence 1839–1906 Aix-en-Provence",
+        "artistSuffix": "",
+        "artistAlphaSort": "Cézanne, Paul",
+        "artistNationality": "French",
+        "artistBeginDate": "1839",
+        "artistEndDate": "1906",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+        "objectDate": "ca. 1892–96",
+        "objectBeginDate": 1892,
+        "objectEndDate": 1896,
+        "medium": "Oil on canvas",
+        "dimensions": "21 1/2 x 17 3/4 in. (54.6 x 45.1 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 54.6,
+                    "Width": 45.1
+                }
+            }
+        ],
+        "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1997, Bequest of Walter H. Annenberg, 2002",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-03-29T10:36:46.263Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437990",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912754",
+        "isTimelineWork": true,
+        "GalleryNumber": "823"
+    },
+    {
+        "objectID": 435878,
+        "isHighlight": false,
+        "accessionNumber": "1994.420",
+        "accessionYear": "1994",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/77J_045R2M.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/77J_045R2M.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161761,
+                "role": "Artist",
+                "name": "Paul Cézanne",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Mont Sainte-Victoire",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Paul Cézanne",
+        "artistDisplayBio": "French, Aix-en-Provence 1839–1906 Aix-en-Provence",
+        "artistSuffix": "",
+        "artistAlphaSort": "Cézanne, Paul",
+        "artistNationality": "French",
+        "artistBeginDate": "1839",
+        "artistEndDate": "1906",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+        "objectDate": "ca. 1902–6",
+        "objectBeginDate": 1902,
+        "objectEndDate": 1906,
+        "medium": "Oil on canvas",
+        "dimensions": "22 1/2 x 38 1/4 in. (57.2 x 97.2 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 57.2,
+                    "Width": 97.2
+                }
+            }
+        ],
+        "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1994, Bequest of Walter H. Annenberg, 2002",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/435878",
+        "tags": [
+            {
+                "term": "Mountains",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+            },
+            {
+                "term": "Landscapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911958",
+        "isTimelineWork": false,
+        "GalleryNumber": "823"
+    },
+    {
+        "objectID": 437989,
+        "isHighlight": false,
+        "accessionNumber": "1997.60.1",
+        "accessionYear": "1997",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1939.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1939.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161761,
+                "role": "Artist",
+                "name": "Paul Cézanne",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Dish of Apples",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Paul Cézanne",
+        "artistDisplayBio": "French, Aix-en-Provence 1839–1906 Aix-en-Provence",
+        "artistSuffix": "",
+        "artistAlphaSort": "Cézanne, Paul",
+        "artistNationality": "French",
+        "artistBeginDate": "1839",
+        "artistEndDate": "1906",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+        "objectDate": "ca. 1876–77",
+        "objectBeginDate": 1876,
+        "objectEndDate": 1877,
+        "medium": "Oil on canvas",
+        "dimensions": "18 1/8 x 21 3/4 in. (46 x 55.2 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 46,
+                    "Width": 55.2
+                }
+            }
+        ],
+        "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1997, Bequest of Walter H. Annenberg, 2002",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-02-10T04:57:46.117Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437989",
+        "tags": [
+            {
+                "term": "Apples",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300266417",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q89"
+            },
+            {
+                "term": "Still Life",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19904864",
+        "isTimelineWork": true,
+        "GalleryNumber": "823"
+    },
+    {
+        "objectID": 435874,
+        "isHighlight": false,
+        "accessionNumber": "1993.400.2",
+        "accessionYear": "1993",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1943.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1943.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161761,
+                "role": "Artist",
+                "name": "Paul Cézanne",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "The House with the Cracked Walls",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Paul Cézanne",
+        "artistDisplayBio": "French, Aix-en-Provence 1839–1906 Aix-en-Provence",
+        "artistSuffix": "",
+        "artistAlphaSort": "Cézanne, Paul",
+        "artistNationality": "French",
+        "artistBeginDate": "1839",
+        "artistEndDate": "1906",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+        "objectDate": "1892–94",
+        "objectBeginDate": 1892,
+        "objectEndDate": 1894,
+        "medium": "Oil on canvas",
+        "dimensions": "31 1/2 x 25 1/4 in. (80 x 64.1 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 80,
+                    "Width": 64.1
+                }
+            }
+        ],
+        "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1993, Bequest of Walter H. Annenberg, 2002",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-09-14T04:53:55.583Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/435874",
+        "tags": [
+            {
+                "term": "Houses",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300005433",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q3947"
+            },
+            {
+                "term": "Landscapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905318",
+        "isTimelineWork": false,
+        "GalleryNumber": "823"
+    },
+    {
+        "objectID": 435869,
+        "isHighlight": false,
+        "accessionNumber": "1993.400.1",
+        "accessionYear": "1993",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1977.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1977.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161761,
+                "role": "Artist",
+                "name": "Paul Cézanne",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Antoine Dominique Sauveur Aubert (born 1817), the Artist's Uncle, as a Monk",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Paul Cézanne",
+        "artistDisplayBio": "French, Aix-en-Provence 1839–1906 Aix-en-Provence",
+        "artistSuffix": "",
+        "artistAlphaSort": "Cézanne, Paul",
+        "artistNationality": "French",
+        "artistBeginDate": "1839",
+        "artistEndDate": "1906",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+        "objectDate": "1866",
+        "objectBeginDate": 1866,
+        "objectEndDate": 1866,
+        "medium": "Oil on canvas",
+        "dimensions": "25 5/8 x 21 1/2 in. (65.1 x 54.6 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 65.1,
+                    "Width": 54.6
+                }
+            }
+        ],
+        "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1993, Bequest of Walter H. Annenberg, 2002",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-19T04:54:04.793Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/435869",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Cross",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300235443",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q40843"
+            },
+            {
+                "term": "Monks",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025765",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q733786"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911720",
+        "isTimelineWork": true,
+        "GalleryNumber": "823"
+    },
+    {
+        "objectID": 364093,
+        "isHighlight": false,
+        "accessionNumber": "2003.20.3",
+        "accessionYear": "2003",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP170782.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP170782.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/dp/original/SFCezanne1.jpg",
+            "https://images.metmuseum.org/CRDImages/dp/original/DP170783.jpg",
+            "https://images.metmuseum.org/CRDImages/dp/original/92C_Cez_bathersR4.jpg",
+            "https://images.metmuseum.org/CRDImages/dp/original/Fig107versoR2_31N.jpg",
+            "https://images.metmuseum.org/CRDImages/dp/original/Fig108_31N.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 161761,
+                "role": "Artist",
+                "name": "Paul Cézanne",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Drawing",
+        "title": "Bathers (recto); Landscape (verso)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Paul Cézanne",
+        "artistDisplayBio": "French, Aix-en-Provence 1839–1906 Aix-en-Provence",
+        "artistSuffix": "",
+        "artistAlphaSort": "Cézanne, Paul",
+        "artistNationality": "French",
+        "artistBeginDate": "1839",
+        "artistEndDate": "1906",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+        "objectDate": "ca. 1888 (recto); n.d. (verso)",
+        "objectBeginDate": 1880,
+        "objectEndDate": 1900,
+        "medium": "Watercolor and graphite on wove paper",
+        "dimensions": "sheet: 4 15/16 x 8 1/8 in. (12.6 x 20.6 cm)",
+        "measurements": [
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 12.6,
+                    "Width": 20.6
+                }
+            }
+        ],
+        "creditLine": "The Walter H. and Leonore Annenberg Collection, Bequest of Walter H. Annenberg, 2002",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-17T04:54:00.49Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/364093",
+        "tags": [
+            {
+                "term": "Bathing",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300343854",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q327651"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 343735,
+        "isHighlight": false,
+        "accessionNumber": "2001.202.1",
+        "accessionYear": "2001",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DT4962.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DT4962.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/dp/original/259604.jpg",
+            "https://images.metmuseum.org/CRDImages/dp/original/2001.202.1.jpg",
+            "https://images.metmuseum.org/CRDImages/dp/original/92C_Cez_wtrmelonR6.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 161761,
+                "role": "Artist",
+                "name": "Paul Cézanne",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Drawing",
+        "title": "Still-Life with a Watermelon and Pomegranates",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Paul Cézanne",
+        "artistDisplayBio": "French, Aix-en-Provence 1839–1906 Aix-en-Provence",
+        "artistSuffix": "",
+        "artistAlphaSort": "Cézanne, Paul",
+        "artistNationality": "French",
+        "artistBeginDate": "1839",
+        "artistEndDate": "1906",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+        "objectDate": "1900–1906",
+        "objectBeginDate": 1900,
+        "objectEndDate": 1906,
+        "medium": "Watercolor over graphite on laid paper",
+        "dimensions": "sheet: 12 3/8 x 19 3/16 in. (31.4 x 48.8 cm)",
+        "measurements": [
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 31.4,
+                    "Width": 48.8
+                }
+            }
+        ],
+        "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 2001, Bequest of Walter H. Annenberg, 2002",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/343735",
+        "tags": [
+            {
+                "term": "Pomegranates",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300379961",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q13222088"
+            },
+            {
+                "term": "Still Life",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 435880,
+        "isHighlight": false,
+        "accessionNumber": "29.100.194",
+        "accessionYear": "1929",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-23704-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-23704-001.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161761,
+                "role": "Artist",
+                "name": "Paul Cézanne",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Rocks at Fontainebleau",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Paul Cézanne",
+        "artistDisplayBio": "French, Aix-en-Provence 1839–1906 Aix-en-Provence",
+        "artistSuffix": "",
+        "artistAlphaSort": "Cézanne, Paul",
+        "artistNationality": "French",
+        "artistBeginDate": "1839",
+        "artistEndDate": "1906",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+        "objectDate": "1890s",
+        "objectBeginDate": 1890,
+        "objectEndDate": 1899,
+        "medium": "Oil on canvas",
+        "dimensions": "28 7/8 x 36 3/8 in. (73.3 x 92.4 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 73.3,
+                    "Width": 92.4
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 6.985,
+                    "Height": 102.8702,
+                    "Width": 120.6502
+                }
+            },
+            {
+                "elementName": "Rabbet",
+                "elementDescription": "Glazing",
+                "elementMeasurements": {
+                    "Depth": 0.47625095,
+                    "Height": 74.93015,
+                    "Width": 94.29769
+                }
+            }
+        ],
+        "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/435880",
+        "tags": [
+            {
+                "term": "Landscapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+            },
+            {
+                "term": "Forests",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911856",
+        "isTimelineWork": false,
+        "GalleryNumber": "619"
+    },
+    {
+        "objectID": 435871,
+        "isHighlight": false,
+        "accessionNumber": "57.181",
+        "accessionYear": "1957",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14936-047.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14936-047.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161761,
+                "role": "Artist",
+                "name": "Paul Cézanne",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Gardanne",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Paul Cézanne",
+        "artistDisplayBio": "French, Aix-en-Provence 1839–1906 Aix-en-Provence",
+        "artistSuffix": "",
+        "artistAlphaSort": "Cézanne, Paul",
+        "artistNationality": "French",
+        "artistBeginDate": "1839",
+        "artistEndDate": "1906",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+        "objectDate": "1885–86",
+        "objectBeginDate": 1885,
+        "objectEndDate": 1886,
+        "medium": "Oil on canvas",
+        "dimensions": "31 1/2 x 25 1/4 in. (80 x 64.1 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 80,
+                    "Width": 64.1
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 6.35,
+                    "Height": 106.6802,
+                    "Width": 88.9002
+                }
+            },
+            {
+                "elementName": "Glazing",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 80.645164,
+                    "Width": 64.77013
+                }
+            }
+        ],
+        "creditLine": "Gift of Dr. and Mrs. Franz H. Hirschland, 1957",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/435871",
+        "tags": [
+            {
+                "term": "Towns",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300008375",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q3957"
+            },
+            {
+                "term": "Buildings",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911801",
+        "isTimelineWork": true,
+        "GalleryNumber": "826"
+    },
+    {
+        "objectID": 435868,
+        "isHighlight": true,
+        "accessionNumber": "61.101.1",
+        "accessionYear": "1961",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP231550.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP231550.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ep/original/CP d'orsay.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 161761,
+                "role": "Artist",
+                "name": "Paul Cézanne",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "The Card Players",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Paul Cézanne",
+        "artistDisplayBio": "French, Aix-en-Provence 1839–1906 Aix-en-Provence",
+        "artistSuffix": "",
+        "artistAlphaSort": "Cézanne, Paul",
+        "artistNationality": "French",
+        "artistBeginDate": "1839",
+        "artistEndDate": "1906",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+        "objectDate": "1890–92",
+        "objectBeginDate": 1890,
+        "objectEndDate": 1892,
+        "medium": "Oil on canvas",
+        "dimensions": "25 3/4 x 32 1/4 in. (65.4 x 81.9 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 65.4,
+                    "Width": 81.9
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 11.43,
+                    "Height": 91.4402,
+                    "Width": 109.2202
+                }
+            }
+        ],
+        "creditLine": "Bequest of Stephen C. Clark, 1960",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/435868",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Playing Cards",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300211294",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q47883"
+            },
+            {
+                "term": "Smoking",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300380156",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q662860"
+            },
+            {
+                "term": "Games",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300069657",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q11410"
+            },
+            {
+                "term": "Pipes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300248067",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q104526"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911459",
+        "isTimelineWork": true,
+        "GalleryNumber": "826"
+    }
+]

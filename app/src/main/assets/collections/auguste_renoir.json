@@ -1,0 +1,4716 @@
+[
+    {
+        "objectID": 459112,
+        "isHighlight": true,
+        "accessionNumber": "1975.1.201",
+        "accessionYear": "1975",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3131.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/rl/web-large/DT3131.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/rl/original/DT720.jpg",
+            "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.201.bw.R.jpg",
+            "https://images.metmuseum.org/CRDImages/rl/original/2432.jpg",
+            "https://images.metmuseum.org/CRDImages/rl/original/rl1975.1.201.R.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "Robert Lehman Collection",
+        "objectName": "Painting",
+        "title": "Two Young Girls at the Piano",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1892",
+        "objectBeginDate": 1892,
+        "objectEndDate": 1892,
+        "medium": "Oil on canvas",
+        "dimensions": "44 × 34 in. (111.8 × 86.4 cm)\r\nFramed: 57 3/8 × 47 in. (145.7 × 119.4 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 111.8,
+                    "Width": 86.4
+                }
+            },
+            {
+                "elementName": "Framed",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 145.73279,
+                    "Width": 119.38024
+                }
+            }
+        ],
+        "creditLine": "Robert Lehman Collection, 1975",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-03-29T10:36:46.263Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/459112",
+        "tags": [
+            {
+                "term": "Girls",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+            },
+            {
+                "term": "Pianos",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300042909",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q5994"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20183500",
+        "isTimelineWork": true,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 459111,
+        "isHighlight": false,
+        "accessionNumber": "1975.1.200",
+        "accessionYear": "1975",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3130.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/rl/web-large/DT3130.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.200.bw.R.jpg",
+            "https://images.metmuseum.org/CRDImages/rl/original/2428.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "Robert Lehman Collection",
+        "objectName": "Painting",
+        "title": "Sea and Cliffs",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "ca. 1885",
+        "objectBeginDate": 1880,
+        "objectEndDate": 1890,
+        "medium": "Oil on canvas",
+        "dimensions": "20 1/4 x 25 in. (51.4 x 63.5 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 51.4,
+                    "Width": 63.5
+                }
+            }
+        ],
+        "creditLine": "Robert Lehman Collection, 1975",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2023-08-17T04:55:37.173Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/459111",
+        "tags": [
+            {
+                "term": "Landscapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+            },
+            {
+                "term": "Boats",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20186701",
+        "isTimelineWork": false,
+        "GalleryNumber": "957"
+    },
+    {
+        "objectID": 459110,
+        "isHighlight": true,
+        "accessionNumber": "1975.1.199",
+        "accessionYear": "1975",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP-17279-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/rl/web-large/DP-17279-001.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/rl/original/DP-17279-002.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "Robert Lehman Collection",
+        "objectName": "Painting",
+        "title": "Young Girl Bathing",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1892",
+        "objectBeginDate": 1892,
+        "objectEndDate": 1892,
+        "medium": "Oil on canvas",
+        "dimensions": "32 x 25 1/2 in. (81.3 x 64.8 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 81.3,
+                    "Width": 64.8
+                }
+            }
+        ],
+        "creditLine": "Robert Lehman Collection, 1975",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/459110",
+        "tags": [
+            {
+                "term": "Female Nudes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+            },
+            {
+                "term": "Bathing",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300343854",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q327651"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20181740",
+        "isTimelineWork": true,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 438013,
+        "isHighlight": false,
+        "accessionNumber": "2003.20.12",
+        "accessionYear": "2003",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14976-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14976-001.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Reclining Nude",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1883",
+        "objectBeginDate": 1883,
+        "objectEndDate": 1883,
+        "medium": "Oil on canvas",
+        "dimensions": "25 5/8 x 32 in. (65.1 x 81.3 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 65.1,
+                    "Width": 81.3
+                }
+            }
+        ],
+        "creditLine": "The Walter H. and Leonore Annenberg Collection, Bequest of Walter H. Annenberg, 2002",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2023-11-07T04:56:25.917Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/438013",
+        "tags": [
+            {
+                "term": "Female Nudes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912880",
+        "isTimelineWork": true,
+        "GalleryNumber": "821"
+    },
+    {
+        "objectID": 438011,
+        "isHighlight": false,
+        "accessionNumber": "2003.20.9",
+        "accessionYear": "2003",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1882.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1882.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Eugène Murer (Hyacinthe-Eugène Meunier, 1841–1906)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1877",
+        "objectBeginDate": 1877,
+        "objectEndDate": 1877,
+        "medium": "Oil on canvas",
+        "dimensions": "18 1/2 x 15 1/2 in. (47 x 39.4 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 47,
+                    "Width": 39.4
+                }
+            }
+        ],
+        "creditLine": "The Walter H. and Leonore Annenberg Collection, Bequest of Walter H. Annenberg, 2002",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2023-12-21T04:58:22.41Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/438011",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912240",
+        "isTimelineWork": true,
+        "GalleryNumber": "821"
+    },
+    {
+        "objectID": 437430,
+        "isHighlight": true,
+        "accessionNumber": "29.100.125",
+        "accessionYear": "1929",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14936-039.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14936-039.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "By the Seashore",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1883",
+        "objectBeginDate": 1883,
+        "objectEndDate": 1883,
+        "medium": "Oil on canvas",
+        "dimensions": "36 1/4 x 28 1/2 in. (92.1 x 72.4 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 92.1,
+                    "Width": 72.4
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 12.7,
+                    "Height": 120.6502,
+                    "Width": 99.6952
+                }
+            }
+        ],
+        "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437430",
+        "tags": [
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q472037",
+        "isTimelineWork": true,
+        "GalleryNumber": "824"
+    },
+    {
+        "objectID": 438012,
+        "isHighlight": false,
+        "accessionNumber": "2003.20.10",
+        "accessionYear": "2003",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1877.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1877.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Bouquet of Chrysanthemums",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1881",
+        "objectBeginDate": 1881,
+        "objectEndDate": 1881,
+        "medium": "Oil on canvas",
+        "dimensions": "26 x 21 7/8 in. (66 x 55.6 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 66,
+                    "Width": 55.6
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 11.112522,
+                    "Height": 92.392685,
+                    "Width": 81.597664
+                }
+            }
+        ],
+        "creditLine": "The Walter H. and Leonore Annenberg Collection, Bequest of Walter H. Annenberg, 2002",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/438012",
+        "tags": [
+            {
+                "term": "Still Life",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+            },
+            {
+                "term": "Flowers",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905438",
+        "isTimelineWork": false,
+        "GalleryNumber": "821"
+    },
+    {
+        "objectID": 437436,
+        "isHighlight": false,
+        "accessionNumber": "1974.356.32",
+        "accessionYear": "1974",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP265242.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP265242.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "A Road in Louveciennes",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "ca. 1870",
+        "objectBeginDate": 1865,
+        "objectEndDate": 1875,
+        "medium": "Oil on canvas",
+        "dimensions": "15 x 18 1/4 in. (38.1 x 46.4 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 38.1,
+                    "Width": 46.4
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 8.89,
+                    "Height": 60.9601,
+                    "Width": 68.8976
+                }
+            }
+        ],
+        "creditLine": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437436",
+        "tags": [
+            {
+                "term": "Human Figures",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+            },
+            {
+                "term": "Roads",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300008217",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q34442"
+            },
+            {
+                "term": "Landscapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19906268",
+        "isTimelineWork": true,
+        "GalleryNumber": "824"
+    },
+    {
+        "objectID": 438010,
+        "isHighlight": false,
+        "accessionNumber": "2002.62.2",
+        "accessionYear": "2002",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1874.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1874.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Nini in the Garden (Nini Lopez)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1876",
+        "objectBeginDate": 1876,
+        "objectEndDate": 1876,
+        "medium": "Oil on canvas",
+        "dimensions": "24 3/8 x 20 in. (61.9 x 50.8 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 61.9,
+                    "Width": 50.8
+                }
+            }
+        ],
+        "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 2002, Bequest of Walter H. Annenberg, 2002",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2023-10-18T04:55:33.33Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/438010",
+        "tags": [
+            {
+                "term": "Gardens",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300008090",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q1107656"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912113",
+        "isTimelineWork": false,
+        "GalleryNumber": "821"
+    },
+    {
+        "objectID": 438014,
+        "isHighlight": false,
+        "accessionNumber": "1998.325.3",
+        "accessionYear": "1998",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1879.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1879.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "The Daughters of Catulle Mendès, Huguette (1871–1964), Claudine (1876–1937), and Helyonne (1879–1955)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1888",
+        "objectBeginDate": 1888,
+        "objectEndDate": 1888,
+        "medium": "Oil on canvas",
+        "dimensions": "63 3/4 x 51 1/8 in. (161.9 x 129.9 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 161.9,
+                    "Width": 129.9
+                }
+            }
+        ],
+        "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1998, Bequest of Walter H. Annenberg, 2002",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-06-27T04:54:21.257Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/438014",
+        "tags": [
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Girls",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+            },
+            {
+                "term": "Pianos",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300042909",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q5994"
+            },
+            {
+                "term": "Violins",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300042215",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8355"
+            },
+            {
+                "term": "Music",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300435214",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q638"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q728373",
+        "isTimelineWork": true,
+        "GalleryNumber": "821"
+    },
+    {
+        "objectID": 437426,
+        "isHighlight": false,
+        "accessionNumber": "56.135.7",
+        "accessionYear": "1956",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP136266.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP136266.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "View of the Seacoast near Wargemont in Normandy",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1880",
+        "objectBeginDate": 1880,
+        "objectEndDate": 1880,
+        "medium": "Oil on canvas",
+        "dimensions": "19 7/8 x 24 1/2 in. (50.5 x 62.2 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 50.5,
+                    "Width": 62.2
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 12.065,
+                    "Height": 85.0902,
+                    "Width": 95.2502
+                }
+            }
+        ],
+        "creditLine": "Bequest of Julia W. Emmons, 1956",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437426",
+        "tags": [
+            {
+                "term": "Seas",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300008694",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q165"
+            },
+            {
+                "term": "Landscapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19906267",
+        "isTimelineWork": true,
+        "GalleryNumber": "824"
+    },
+    {
+        "objectID": 437432,
+        "isHighlight": false,
+        "accessionNumber": "61.101.13",
+        "accessionYear": "1961",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25036-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-25036-001.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Tilla Durieux (Ottilie Godeffroy, 1880–1971)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1914",
+        "objectBeginDate": 1914,
+        "objectEndDate": 1914,
+        "medium": "Oil on canvas",
+        "dimensions": "36 1/4 x 29 in. (92.1 x 73.7 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 92.1,
+                    "Width": 73.7
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 12.7,
+                    "Height": 127.0003,
+                    "Width": 106.6802
+                }
+            },
+            {
+                "elementName": "Glazing",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 92.71018,
+                    "Length": 74.29515
+                }
+            }
+        ],
+        "creditLine": "Bequest of Stephen C. Clark, 1960",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-06-27T04:54:21.257Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437432",
+        "tags": [
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q1321055",
+        "isTimelineWork": true,
+        "GalleryNumber": "824"
+    },
+    {
+        "objectID": 441104,
+        "isHighlight": false,
+        "accessionNumber": "2010.454",
+        "accessionYear": "2010",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP257756.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP257756.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Still Life with Flowers and Prickly Pears",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "ca. 1885",
+        "objectBeginDate": 1880,
+        "objectEndDate": 1890,
+        "medium": "Oil on canvas",
+        "dimensions": "28 7/8 x 23 3/8 in. (73.3 x 59.4 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 73.34264,
+                    "Width": 59.37262
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 10.16002,
+                    "Height": 99.060196,
+                    "Width": 83.82017
+                }
+            }
+        ],
+        "creditLine": "Bequest of Catherine Vance Gaisman, 2010",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/441104",
+        "tags": [
+            {
+                "term": "Pears",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300375178",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q13099586"
+            },
+            {
+                "term": "Flowers",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+            },
+            {
+                "term": "Still Life",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+            },
+            {
+                "term": "Vases",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132254",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191851"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912439",
+        "isTimelineWork": false,
+        "GalleryNumber": "824"
+    },
+    {
+        "objectID": 437429,
+        "isHighlight": false,
+        "accessionNumber": "61.101.12",
+        "accessionYear": "1961",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1140.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1140.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Still Life with Peaches",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1881",
+        "objectBeginDate": 1881,
+        "objectEndDate": 1881,
+        "medium": "Oil on canvas",
+        "dimensions": "21 x 25 1/2 in. (53.3 x 64.8 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 53.3,
+                    "Width": 64.8
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 8.89,
+                    "Height": 68.5801,
+                    "Width": 78.7402
+                }
+            }
+        ],
+        "creditLine": "Bequest of Stephen C. Clark, 1960",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-05-16T04:53:54.097Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437429",
+        "tags": [
+            {
+                "term": "Peaches",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300266272",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q13202263"
+            },
+            {
+                "term": "Still Life",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905290",
+        "isTimelineWork": true,
+        "GalleryNumber": "824"
+    },
+    {
+        "objectID": 438815,
+        "isHighlight": true,
+        "accessionNumber": "07.122",
+        "accessionYear": "1907",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-35674-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-35674-001.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Madame Georges Charpentier (Marguerite-Louise Lemonnier, 1848–1904) and Her Children, Georgette-Berthe (1872–1945) and Paul-Emile-Charles (1875–1895)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1878",
+        "objectBeginDate": 1878,
+        "objectEndDate": 1878,
+        "medium": "Oil on canvas",
+        "dimensions": "60 1/2 x 74 7/8 in. (153.7 x 190.2 cm)",
+        "measurements": [
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 12.700026,
+                    "Height": 203.20041,
+                    "Width": 237.49048
+                }
+            },
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 190.18288,
+                    "Width": 153.6703
+                }
+            }
+        ],
+        "creditLine": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1907",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/438815",
+        "tags": [
+            {
+                "term": "Interiors",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Dogs",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+            },
+            {
+                "term": "Boys",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+            },
+            {
+                "term": "Girls",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q686105",
+        "isTimelineWork": true,
+        "GalleryNumber": "824"
+    },
+    {
+        "objectID": 437433,
+        "isHighlight": false,
+        "accessionNumber": "61.190",
+        "accessionYear": "1961",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-22988-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-22988-001.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "The Farm at Les Collettes, Cagnes",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1908–14",
+        "objectBeginDate": 1908,
+        "objectEndDate": 1914,
+        "medium": "Oil on canvas",
+        "dimensions": "21 1/2 x 25 3/4in. (54.6 x 65.4cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 54.6,
+                    "Width": 65.4
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 9.525,
+                    "Height": 76.2002,
+                    "Width": 86.9952
+                }
+            }
+        ],
+        "creditLine": "Bequest of Charlotte Gina Abrams, in memory of her husband, Lucien Abrams, 1961",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-07-25T04:53:40.503Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437433",
+        "tags": [
+            {
+                "term": "Farms",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300000206",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q131596"
+            },
+            {
+                "term": "Landscapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912621",
+        "isTimelineWork": false,
+        "GalleryNumber": "824"
+    },
+    {
+        "objectID": 437425,
+        "isHighlight": false,
+        "accessionNumber": "61.101.15",
+        "accessionYear": "1961",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1489.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1489.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Marguerite-Thérèse (Margot) Berard (1874–1956)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1879",
+        "objectBeginDate": 1879,
+        "objectEndDate": 1879,
+        "medium": "Oil on canvas",
+        "dimensions": "16 1/8 x 12 3/4 in. (41 x 32.4 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 41,
+                    "Width": 32.4
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 8.89,
+                    "Height": 62.2301,
+                    "Width": 53.3401
+                }
+            }
+        ],
+        "creditLine": "Bequest of Stephen C. Clark, 1960",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-04-12T04:51:39.643Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437425",
+        "tags": [
+            {
+                "term": "Girls",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20167158",
+        "isTimelineWork": true,
+        "GalleryNumber": "824"
+    },
+    {
+        "objectID": 437437,
+        "isHighlight": false,
+        "accessionNumber": "61.101.14",
+        "accessionYear": "1961",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1488.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1488.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Young Woman (La Servante)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "ca. 1875",
+        "objectBeginDate": 1870,
+        "objectEndDate": 1880,
+        "medium": "Oil on canvas",
+        "dimensions": "39 1/2 x 28 1/8 in. (100.3 x 71.4 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 100.3,
+                    "Width": 71.4
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 8.89,
+                    "Height": 126.3653,
+                    "Width": 97.7902
+                }
+            }
+        ],
+        "creditLine": "Bequest of Stephen C. Clark, 1960",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437437",
+        "tags": [
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q1236170",
+        "isTimelineWork": true,
+        "GalleryNumber": "824"
+    },
+    {
+        "objectID": 437424,
+        "isHighlight": false,
+        "accessionNumber": "51.200",
+        "accessionYear": "1951",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1399.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1399.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Madame Édouard Bernier (Marie-Octavie-Stéphanie Laurens, 1838–1920)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1871",
+        "objectBeginDate": 1871,
+        "objectEndDate": 1871,
+        "medium": "Oil on canvas",
+        "dimensions": "30 3/4 x 24 1/2 in. (78.1 x 62.2 cm)",
+        "measurements": [
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 11.43,
+                    "Height": 105.4102,
+                    "Width": 90.1702
+                }
+            },
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 78.1,
+                    "Width": 62.2
+                }
+            }
+        ],
+        "creditLine": "Gift of Margaret Seligman Lewisohn, in memory of her husband, Sam A. Lewisohn, and of her sister-in-law, Adele Lewisohn Lehman, 1951",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437424",
+        "tags": [
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905288",
+        "isTimelineWork": false,
+        "GalleryNumber": "824"
+    },
+    {
+        "objectID": 459967,
+        "isHighlight": false,
+        "accessionNumber": "1975.1.690",
+        "accessionYear": "1975",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP-33582-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/rl/web-large/DP-33582-001.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/rl/original/CT_28242.jpg",
+            "https://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975-1-690.JPG"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "Robert Lehman Collection",
+        "objectName": "Drawing",
+        "title": "Figures under a Tree",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1880–82",
+        "objectBeginDate": 1880,
+        "objectEndDate": 1882,
+        "medium": "Watercolor and graphite on off-white laid paper",
+        "dimensions": "9 7/16 × 12 5/16 in. (23.9 × 31.2 cm)\r\nFramed: 16 1/4 × 21 1/4 in. (41.3 × 54 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 23.9,
+                    "Width": 31.2
+                }
+            },
+            {
+                "elementName": "Framed",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 41.27508,
+                    "Width": 53.97511
+                }
+            }
+        ],
+        "creditLine": "Robert Lehman Collection, 1975",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-04-13T04:51:37.7Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/459967",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 490026,
+        "isHighlight": false,
+        "accessionNumber": "1999.363.72",
+        "accessionYear": "1999",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ma/original/1999.363.72.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ma/web-large/1999.363.72.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            },
+            {
+                "constituentID": 228912,
+                "role": "Artist",
+                "name": "Richard Guino",
+                "constituentULAN_URL": "",
+                "constituentWikidata_URL": "",
+                "gender": ""
+            }
+        ],
+        "department": "Modern and Contemporary Art",
+        "objectName": "Sculpture",
+        "title": "Washerwoman",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1916",
+        "objectBeginDate": 1916,
+        "objectEndDate": 1916,
+        "medium": "Bronze",
+        "dimensions": "13 1/4 x 11 1/2 x 6 in. (33.7 x 29.2 x 15.2 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 15.2,
+                    "Height": 33.7,
+                    "Width": 29.2
+                }
+            }
+        ],
+        "creditLine": "Jacques and Natasha Gelman Collection, 1998",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Sculpture",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/490026",
+        "tags": [
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Washing",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300053042",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q23841"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q119505774",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 459971,
+        "isHighlight": false,
+        "accessionNumber": "1975.1.692",
+        "accessionYear": "1975",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3305.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/rl/web-large/DT3305.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975-1-692.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "Robert Lehman Collection",
+        "objectName": "Drawing",
+        "title": "Portrait of Séverine",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1885–87",
+        "objectBeginDate": 1885,
+        "objectEndDate": 1887,
+        "medium": "Charcoal and unfixed pastel on paper",
+        "dimensions": "23 1/2 x 18 1/4 in.  (59.7 x 46.4 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 59.7,
+                    "Width": 46.4
+                }
+            }
+        ],
+        "creditLine": "Robert Lehman Collection, 1975",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2020-09-16T18:35:19.457Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/459971",
+        "tags": [
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 459970,
+        "isHighlight": false,
+        "accessionNumber": "1975.1.688",
+        "accessionYear": "1975",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP-13666-007.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/rl/web-large/DP-13666-007.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/rl/original/DT3303.jpg",
+            "https://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975-1-688.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "Robert Lehman Collection",
+        "objectName": "Drawing",
+        "title": "Young Girl in a Blue Dress",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "ca. 1890",
+        "objectBeginDate": 1890,
+        "objectEndDate": 1890,
+        "medium": "Watercolor with gouache highlights on thick cream wove paper",
+        "dimensions": "8 3/16 × 6 5/16 in. (20.8 × 16 cm)\r\nFramed: 21 1/4 × 16 1/4 in. (54 × 41.3 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 20.8,
+                    "Width": 16
+                }
+            },
+            {
+                "elementName": "Framed",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 53.97511,
+                    "Width": 41.27508
+                }
+            }
+        ],
+        "creditLine": "Robert Lehman Collection, 1975",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-05-11T04:52:16.88Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/459970",
+        "tags": [
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Girls",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20188152",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 459968,
+        "isHighlight": false,
+        "accessionNumber": "1975.1.691",
+        "accessionYear": "1975",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/CT_28246.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/rl/web-large/CT_28246.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975-1-691.JPG"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "Robert Lehman Collection",
+        "objectName": "Drawing",
+        "title": "Landscape",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1889",
+        "objectBeginDate": 1889,
+        "objectEndDate": 1889,
+        "medium": "Watercolor on off-white laid paper",
+        "dimensions": "8 7/8 × 12 9/16 in. (22.6 × 31.9 cm)\r\nFramed: 18 × 24 in. (45.7 × 61 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 22.6,
+                    "Width": 31.9
+                }
+            },
+            {
+                "elementName": "Framed",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 45.720093,
+                    "Width": 60.96012
+                }
+            }
+        ],
+        "creditLine": "Robert Lehman Collection, 1975",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-24T04:55:48.05Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/459968",
+        "tags": [
+            {
+                "term": "Landscapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 459969,
+        "isHighlight": false,
+        "accessionNumber": "1975.1.689",
+        "accessionYear": "1975",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP-33581-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/rl/web-large/DP-33581-001.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/rl/original/DT3304.jpg",
+            "https://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975-1-689.JPG"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "Robert Lehman Collection",
+        "objectName": "Drawing",
+        "title": "Landscape with a Girl",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "ca. 1890",
+        "objectBeginDate": 1890,
+        "objectEndDate": 1890,
+        "medium": "Watercolor with traces of graphite on off-white laid paper with edges darkened from acid mat",
+        "dimensions": "9 7/16 × 12 5/16 in. (23.9 × 31.2 cm)\r\nFramed: 16 1/4 × 21 1/4 in. (41.3 × 54 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 23.9,
+                    "Width": 31.2
+                }
+            },
+            {
+                "elementName": "Framed",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 41.27508,
+                    "Width": 53.97511
+                }
+            }
+        ],
+        "creditLine": "Robert Lehman Collection, 1975",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-04-13T04:51:37.7Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/459969",
+        "tags": [
+            {
+                "term": "Girls",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+            },
+            {
+                "term": "Trees",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 459109,
+        "isHighlight": false,
+        "accessionNumber": "1975.1.198",
+        "accessionYear": "1975",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP-34500-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/rl/web-large/DP-34500-001.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/rl/original/DP-34500-002.jpg",
+            "https://images.metmuseum.org/CRDImages/rl/original/2433.jpg",
+            "https://images.metmuseum.org/CRDImages/rl/original/DT3128.jpg",
+            "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.198.bw.R.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "Robert Lehman Collection",
+        "objectName": "Painting",
+        "title": "Figures on the Beach",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1890",
+        "objectBeginDate": 1890,
+        "objectEndDate": 1890,
+        "medium": "Oil on canvas",
+        "dimensions": "20 3/4 × 25 1/4 in. (52.7 × 64.1 cm)\r\nFramed: 33 1/16 × 37 5/8 in. (84 × 95.6 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 52.7,
+                    "Width": 64.1
+                }
+            },
+            {
+                "elementName": "Framed",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 83.97892,
+                    "Width": 95.56769
+                }
+            }
+        ],
+        "creditLine": "Robert Lehman Collection, 1975",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-07-20T04:53:15.57Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/459109",
+        "tags": [
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Dogs",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+            },
+            {
+                "term": "Beaches",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300008816",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q40080"
+            },
+            {
+                "term": "Boats",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20182262",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 358923,
+        "isHighlight": false,
+        "accessionNumber": "31.82.1",
+        "accessionYear": "1931",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP874497.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP874497.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            },
+            {
+                "constituentID": 162325,
+                "role": "Sitter",
+                "name": "Auguste Rodin",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016619",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q30755",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "Auguste Rodin",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1900",
+        "objectBeginDate": 1900,
+        "objectEndDate": 1900,
+        "medium": "Lithograph on off white wove paper",
+        "dimensions": "Plate: 15 3/8 × 15 3/8 in. (39 × 39 cm)\r\nSheet: 25 3/8 × 19 7/8 in. (64.5 × 50.5 cm)",
+        "measurements": [
+            {
+                "elementName": "Plate",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 39,
+                    "Width": 39
+                }
+            },
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 64.5,
+                    "Width": 50.5
+                }
+            }
+        ],
+        "creditLine": "Harris Brisbane Dick Fund, 1931",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2020-09-16T18:35:19.457Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/358923",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 459113,
+        "isHighlight": false,
+        "accessionNumber": "1975.1.202",
+        "accessionYear": "1975",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP-34853-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/rl/web-large/DP-34853-001.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/rl/original/0202-1.jpg",
+            "https://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975-1-202.jpg",
+            "https://images.metmuseum.org/CRDImages/rl/original/DP240424.jpg",
+            "https://images.metmuseum.org/CRDImages/rl/original/2434.jpg",
+            "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.202.bw.R.jpg",
+            "https://images.metmuseum.org/CRDImages/rl/original/SLP0202.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "Robert Lehman Collection",
+        "objectName": "Painting",
+        "title": "Versailles",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1900–1905",
+        "objectBeginDate": 1900,
+        "objectEndDate": 1905,
+        "medium": "Oil on canvas",
+        "dimensions": "20 1/2 × 24 7/8 in. (52.1 × 63.2 cm)\r\nFramed: 31 1/2 × 36 in. (80 × 91.4 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 52.1,
+                    "Width": 63.2
+                }
+            },
+            {
+                "elementName": "Framed",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 80.01016,
+                    "Width": 91.440186
+                }
+            }
+        ],
+        "creditLine": "Robert Lehman Collection, 1975",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-09-17T04:54:30.54Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/459113",
+        "tags": [
+            {
+                "term": "Trees",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+            },
+            {
+                "term": "Gardens",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300008090",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q1107656"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19967641",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 459966,
+        "isHighlight": false,
+        "accessionNumber": "1975.1.687",
+        "accessionYear": "1975",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3302.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/rl/web-large/DT3302.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975-1-687.JPG"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "Robert Lehman Collection",
+        "objectName": "Drawing",
+        "title": "Beach Scene",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1883",
+        "objectBeginDate": 1883,
+        "objectEndDate": 1883,
+        "medium": "Pen and brown ink with watercolor wash on buff paper, darkened",
+        "dimensions": "3 3/8 x 4 3/4 in.  (8.5 x 12 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 8.5,
+                    "Width": 12
+                }
+            }
+        ],
+        "creditLine": "Robert Lehman Collection, 1975",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2020-09-16T18:35:19.457Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/459966",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Beaches",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300008816",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q40080"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 437427,
+        "isHighlight": false,
+        "accessionNumber": "56.135.8",
+        "accessionYear": "1956",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1878.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1878.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "The Bay of Naples",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1881",
+        "objectBeginDate": 1881,
+        "objectEndDate": 1881,
+        "medium": "Oil on canvas",
+        "dimensions": "23 1/2 x 32 in. (59.7 x 81.3 cm)",
+        "measurements": [
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 6.985,
+                    "Height": 75.5652,
+                    "Width": 96.5202
+                }
+            },
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 59.7,
+                    "Width": 81.3
+                }
+            }
+        ],
+        "creditLine": "Bequest of Julia W. Emmons, 1956",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437427",
+        "tags": [
+            {
+                "term": "Seas",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300008694",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q165"
+            },
+            {
+                "term": "Mountains",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+            },
+            {
+                "term": "Boats",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912270",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 437438,
+        "isHighlight": false,
+        "accessionNumber": "64.150",
+        "accessionYear": "1964",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-33709-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-33709-001.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Young Girl in a Pink-and-Black Hat",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "ca. 1891",
+        "objectBeginDate": 1886,
+        "objectEndDate": 1896,
+        "medium": "Oil on canvas",
+        "dimensions": "16 x 12 3/4 in. (40.6 x 32.4 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 40.6,
+                    "Width": 32.4
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 5.7150116,
+                    "Height": 59.69012,
+                    "Width": 50.800102
+                }
+            }
+        ],
+        "creditLine": "Gift of Kathryn B. Miller, 1964",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-09-14T04:53:55.583Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437438",
+        "tags": [
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Girls",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912617",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 437428,
+        "isHighlight": false,
+        "accessionNumber": "56.218",
+        "accessionYear": "1956",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-23203-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-23203-001.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Still Life with Peaches and Grapes",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1881",
+        "objectBeginDate": 1881,
+        "objectEndDate": 1881,
+        "medium": "Oil on canvas",
+        "dimensions": "21 1/4 x 25 5/8 in. (54 x 65.1 cm)",
+        "measurements": [
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 8.255,
+                    "Height": 69.2151,
+                    "Width": 78.7402
+                }
+            },
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 54,
+                    "Width": 65.1
+                }
+            }
+        ],
+        "creditLine": "The Mr. and Mrs. Henry Ittleson Jr. Purchase Fund, 1956",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-07-25T04:53:40.503Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437428",
+        "tags": [
+            {
+                "term": "Grapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+            },
+            {
+                "term": "Peaches",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300266272",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q13202263"
+            },
+            {
+                "term": "Still Life",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905362",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 437431,
+        "isHighlight": false,
+        "accessionNumber": "56.135.9",
+        "accessionYear": "1956",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-20338-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-20338-001.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Hills around the Bay of Moulin Huet, Guernsey",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1883",
+        "objectBeginDate": 1883,
+        "objectEndDate": 1883,
+        "medium": "Oil on canvas",
+        "dimensions": "18 1/8 x 25 3/4 in. (46 x 65.4 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 46,
+                    "Width": 65.4
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 7.3025,
+                    "Height": 65.7226,
+                    "Width": 84.1377
+                }
+            }
+        ],
+        "creditLine": "Bequest of Julia W. Emmons, 1956",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-04-12T04:51:39.643Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437431",
+        "tags": [
+            {
+                "term": "Hills",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300008777",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q54050"
+            },
+            {
+                "term": "Landscapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912799",
+        "isTimelineWork": true,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 339674,
+        "isHighlight": false,
+        "accessionNumber": "29.100.195",
+        "accessionYear": "1929",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP212939.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP212939.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/dp/original/29.100.195.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Drawing",
+        "title": "Young Woman with a Muff",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1860–1919",
+        "objectBeginDate": 1860,
+        "objectEndDate": 1919,
+        "medium": "Pastel",
+        "dimensions": "20 3/4 x 14 1/4 in. (52.7 x 36.2 cm)",
+        "measurements": null,
+        "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/339674",
+        "tags": [
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 358770,
+        "isHighlight": false,
+        "accessionNumber": "1984.1203.119",
+        "accessionYear": "1984",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP838443.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP838443.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "Les Deux Baigneuses (Cancelled impression)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1895",
+        "objectBeginDate": 1895,
+        "objectEndDate": 1895,
+        "medium": "Etching on wove paper; impression from cancelled plate",
+        "dimensions": "sheet: 14 1/4 x 10 9/16 in. (36.2 x 26.9 cm)\r\nplate: 10 3/16 x 9 1/2 in. (25.9 x 24.1 cm)",
+        "measurements": [
+            {
+                "elementName": "Plate",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 25.9,
+                    "Width": 24.1
+                }
+            },
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 36.2,
+                    "Width": 26.9
+                }
+            }
+        ],
+        "creditLine": "Bequest of Scofield Thayer, 1982",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2022-02-09T04:42:08.947Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/358770",
+        "tags": [
+            {
+                "term": "Female Nudes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+            },
+            {
+                "term": "Bathing",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300343854",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q327651"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 358926,
+        "isHighlight": false,
+        "accessionNumber": "1984.1203.118",
+        "accessionYear": "1984",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP838013.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP838013.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "The Two Bathers",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1895",
+        "objectBeginDate": 1895,
+        "objectEndDate": 1895,
+        "medium": "Etching on cream wove paper; only state",
+        "dimensions": "sheet: 23 3/8 x 16 15/16 in. (59.3 x 43 cm)\r\nplate: 10 1/4 x 9 1/2 in. (26 x 24.2 cm)",
+        "measurements": [
+            {
+                "elementName": "Plate",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 26,
+                    "Width": 24.2
+                }
+            },
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 59.3,
+                    "Width": 43
+                }
+            }
+        ],
+        "creditLine": "Bequest of Scofield Thayer, 1982",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2022-02-09T04:42:08.947Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/358926",
+        "tags": [
+            {
+                "term": "Female Nudes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+            },
+            {
+                "term": "Bathing",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300343854",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q327651"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 358927,
+        "isHighlight": false,
+        "accessionNumber": "31.79.4",
+        "accessionYear": "1931",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/MM7862.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/MM7862.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "Standing Bather",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1896",
+        "objectBeginDate": 1896,
+        "objectEndDate": 1896,
+        "medium": "Color lithograph on off-white laid paper",
+        "dimensions": "sheet: 25 5/16 x 17 5/16 in. (64.3 x 44 cm)\r\nplate: 16 3/4 x 13 in. (42.5 x 33 cm)",
+        "measurements": [
+            {
+                "elementName": "Plate",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 42.5,
+                    "Width": 33
+                }
+            },
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 64.3,
+                    "Width": 44
+                }
+            }
+        ],
+        "creditLine": "Harris Brisbane Dick Fund, 1931",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-07-18T04:54:18.34Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/358927",
+        "tags": [
+            {
+                "term": "Female Nudes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 358922,
+        "isHighlight": false,
+        "accessionNumber": "31.82.5",
+        "accessionYear": "1931",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP236717.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP236717.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/dp/original/MM7876.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "The Hat Pinned with Flowers (Le Chapeau Épinglé)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1898",
+        "objectBeginDate": 1898,
+        "objectEndDate": 1898,
+        "medium": "Color lithograph on off-white laid paper",
+        "dimensions": "image: 24 3/16 x 19 9/16 in. (61.5 x 49.7 cm)\r\nsheet: 35 5/8 x 24 15/16 in. (90.5 x 63.3 cm)",
+        "measurements": [
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 90.5,
+                    "Width": 63.3
+                }
+            },
+            {
+                "elementName": "Image",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 61.5,
+                    "Width": 49.7
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 114.30023,
+                    "Width": 88.90018
+                }
+            }
+        ],
+        "creditLine": "Harris Brisbane Dick Fund, 1931",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2021-10-14T04:36:36.32Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/358922",
+        "tags": [
+            {
+                "term": "Hats",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300046106",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q80151"
+            },
+            {
+                "term": "Girls",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+            },
+            {
+                "term": "Flowers",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 437435,
+        "isHighlight": false,
+        "accessionNumber": "1974.356.34",
+        "accessionYear": "1974",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-30261-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-30261-001.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Drawing",
+        "title": "The Milliner",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1877",
+        "objectBeginDate": 1877,
+        "objectEndDate": 1877,
+        "medium": "Pastel on paper",
+        "dimensions": "21 x 16 1/4 in. (53.3 x 41.3 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 53.3,
+                    "Width": 41.3
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 8.572517,
+                    "Height": 71.12014,
+                    "Width": 60.32512
+                }
+            }
+        ],
+        "creditLine": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-07-30T04:53:19.863Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437435",
+        "tags": [
+            {
+                "term": "Girls",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q111729763",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 437439,
+        "isHighlight": false,
+        "accessionNumber": "59.21",
+        "accessionYear": "1959",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14936-053.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14936-053.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "A Young Girl with Daisies",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1889",
+        "objectBeginDate": 1889,
+        "objectEndDate": 1889,
+        "medium": "Oil on canvas",
+        "dimensions": "25 5/8 x 21 1/4 in. (65.1 x 54 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 65.1,
+                    "Width": 54
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 12.065,
+                    "Height": 90.1702,
+                    "Width": 79.3752
+                }
+            },
+            {
+                "elementName": "Glazing",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 66.04013,
+                    "Width": 55.24511
+                }
+            }
+        ],
+        "creditLine": "The Mr. and Mrs. Henry Ittleson Jr. Purchase Fund, 1959",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-04-12T04:51:39.643Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437439",
+        "tags": [
+            {
+                "term": "Girls",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Daisies",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300375557",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q26158"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19906257",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 339677,
+        "isHighlight": false,
+        "accessionNumber": "66.96",
+        "accessionYear": "1966",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP812087.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP812087.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/dp/original/66.96.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Drawing",
+        "title": "Studies of Landscape, Trees, and Exotic Fruit",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "ca. 1885",
+        "objectBeginDate": 1880,
+        "objectEndDate": 1890,
+        "medium": "Watercolor and ink over graphite",
+        "dimensions": "12 1/2 x 18 3/4 in. (31.8 x 47.6 cm)",
+        "measurements": null,
+        "creditLine": "Rogers Fund, 1966",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-06-27T04:54:21.257Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/339677",
+        "tags": [
+            {
+                "term": "Fruit",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+            },
+            {
+                "term": "Landscapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+            },
+            {
+                "term": "Trees",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q105221884",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 339678,
+        "isHighlight": false,
+        "accessionNumber": "1972.118.227",
+        "accessionYear": "1972",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP216720.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP216720.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Drawing",
+        "title": "A Girl Reading (with a Sketch of Seated Woman)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "n.d.",
+        "objectBeginDate": 1855,
+        "objectEndDate": 1919,
+        "medium": "Charcoal, some stumping",
+        "dimensions": "24 11/16 x 19 1/8 in.  (62.7 x 48.5 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 62.7,
+                    "Width": 48.5
+                }
+            }
+        ],
+        "creditLine": "Bequest of Walter C. Baker, 1971",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/339678",
+        "tags": [
+            {
+                "term": "Girls",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+            },
+            {
+                "term": "Reading",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300248178",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q199657"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q105221891",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 437434,
+        "isHighlight": false,
+        "accessionNumber": "51.112.4",
+        "accessionYear": "1951",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1398.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1398.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "In the Meadow",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1888–92",
+        "objectBeginDate": 1888,
+        "objectEndDate": 1892,
+        "medium": "Oil on canvas",
+        "dimensions": "32 x 25 3/4 in. (81.3 x 65.4 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 81.3,
+                    "Width": 65.4
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 10.795,
+                    "Height": 106.6802,
+                    "Width": 91.4402
+                }
+            }
+        ],
+        "creditLine": "Bequest of Sam A. Lewisohn, 1951",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437434",
+        "tags": [
+            {
+                "term": "Girls",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905164",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 364095,
+        "isHighlight": false,
+        "accessionNumber": "2003.20.11",
+        "accessionYear": "2003",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP212225.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP212225.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Drawing",
+        "title": "Landscape with a Path between Trees",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "ca. 1886",
+        "objectBeginDate": 1881,
+        "objectEndDate": 1891,
+        "medium": "Watercolor with touches of white gouache on wove paper",
+        "dimensions": "sheet: 10 13/16 x 13 13/16 in. (27.4 x 35.1 cm)",
+        "measurements": [
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 27.4,
+                    "Width": 35.1
+                }
+            }
+        ],
+        "creditLine": "The Walter H. and Leonore Annenberg Collection, Bequest of Walter H. Annenberg, 2002",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/364095",
+        "tags": [
+            {
+                "term": "Landscapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+            },
+            {
+                "term": "Trees",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 358929,
+        "isHighlight": false,
+        "accessionNumber": "22.82.1-37",
+        "accessionYear": "1922",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP838009.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP838009.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            },
+            {
+                "constituentID": 180220,
+                "role": "Publisher",
+                "name": "André Marty",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500450154",
+                "constituentWikidata_URL": "",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "Pierre Renoir from the Front (Head of a Child / Tête d'enfant), from \"L'Estampe Originale\"",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "L'Estampe originale, Album IV",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1893",
+        "objectBeginDate": 1893,
+        "objectEndDate": 1893,
+        "medium": "Lithograph",
+        "dimensions": "sheet: 23 1/4 x 16 1/4 in. (59 x 41.3 cm)\r\nplate: 12 11/16 x 9 5/8 in. (32.3 x 24.5 cm)",
+        "measurements": [
+            {
+                "elementName": "Plate",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 32.3,
+                    "Width": 24.5
+                }
+            },
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 59,
+                    "Width": 41.3
+                }
+            }
+        ],
+        "creditLine": "Rogers Fund, 1922",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-06-01T04:53:48.073Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/358929",
+        "tags": [
+            {
+                "term": "Heads",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300375054",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q3409626"
+            },
+            {
+                "term": "Children",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 358765,
+        "isHighlight": false,
+        "accessionNumber": "22.82.1-91",
+        "accessionYear": "1922",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP838444.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP838444.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162302,
+                "role": "Artist",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            },
+            {
+                "constituentID": 180220,
+                "role": "Publisher",
+                "name": "André Marty",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500450154",
+                "constituentWikidata_URL": "",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "Two Bathers (Les Deux Baigneuses), from \"L'Estampe Originale\"",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "L'Estampe Originale, Album IX",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Auguste Renoir",
+        "artistDisplayBio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+        "artistSuffix": "",
+        "artistAlphaSort": "Renoir, Auguste",
+        "artistNationality": "French",
+        "artistBeginDate": "1841",
+        "artistEndDate": "1919",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "objectDate": "1895",
+        "objectBeginDate": 1895,
+        "objectEndDate": 1895,
+        "medium": "Etching; only state",
+        "dimensions": "Sheet: 18 7/8 x 13 9/16 in. (48 x 34.4 cm)\r\nPlate: 10 1/4 x 9 7/16 in. (26 x 24 cm)",
+        "measurements": [
+            {
+                "elementName": "Plate",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 26,
+                    "Width": 24
+                }
+            },
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 48,
+                    "Width": 34.4
+                }
+            }
+        ],
+        "creditLine": "Rogers Fund, 1922",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-09-19T04:53:11.37Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/358765",
+        "tags": [
+            {
+                "term": "Female Nudes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+            },
+            {
+                "term": "Bathing",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300343854",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q327651"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 722444,
+        "isHighlight": false,
+        "accessionNumber": "1977.580.28",
+        "accessionYear": "1977",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP863329.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP863329.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 91514,
+                "role": "Artist",
+                "name": "Anonymous",
+                "constituentULAN_URL": "",
+                "constituentWikidata_URL": "",
+                "gender": ""
+            },
+            {
+                "constituentID": 162302,
+                "role": "Subject",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print, calling card",
+        "title": "Pierre-Auguste Renoir, calling card",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Anonymous",
+        "artistDisplayBio": "",
+        "artistSuffix": "",
+        "artistAlphaSort": "Anonymous",
+        "artistNationality": "",
+        "artistBeginDate": "",
+        "artistEndDate": "",
+        "artistGender": "",
+        "artistWikidata_URL": "",
+        "artistULAN_URL": "",
+        "objectDate": "ca. 1864–1919",
+        "objectBeginDate": 1859,
+        "objectEndDate": 1919,
+        "medium": "Engraving",
+        "dimensions": "Sheet: 1 11/16 × 3 1/16 in. (4.3 × 7.7 cm)",
+        "measurements": [
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 4.3,
+                    "Width": 7.7
+                }
+            }
+        ],
+        "creditLine": "Gift of F. C. Schang, 1977",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2022-06-02T12:28:57.13Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/722444",
+        "tags": null,
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 333817,
+        "isHighlight": false,
+        "accessionNumber": "19.86",
+        "accessionYear": "1919",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP806334.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP806334.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/dp/original/19.86.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 165587,
+                "role": "Artist",
+                "name": "Henri Fantin-Latour",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025754",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q310715",
+                "gender": ""
+            },
+            {
+                "constituentID": 162302,
+                "role": "Sitter",
+                "name": "Auguste Renoir",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+                "gender": ""
+            },
+            {
+                "constituentID": 162843,
+                "role": "Sitter",
+                "name": "Jean-Frédéric Bazille",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004356",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q207298",
+                "gender": ""
+            },
+            {
+                "constituentID": 162783,
+                "role": "Sitter",
+                "name": "Emile Zola",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500205256",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q504",
+                "gender": ""
+            },
+            {
+                "constituentID": 69360,
+                "role": "Sitter",
+                "name": "Edmond Maître",
+                "constituentULAN_URL": "",
+                "constituentWikidata_URL": "",
+                "gender": ""
+            },
+            {
+                "constituentID": 68912,
+                "role": "Sitter",
+                "name": "Zacharie Astruc",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012366",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q50656",
+                "gender": ""
+            },
+            {
+                "constituentID": 162135,
+                "role": "Sitter",
+                "name": "Claude Monet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019484",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q296",
+                "gender": ""
+            },
+            {
+                "constituentID": 69359,
+                "role": "Sitter",
+                "name": "Otto Scholderer",
+                "constituentULAN_URL": "(not assigned)",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q465304",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Drawing",
+        "title": "Manet's Studio in the Batignolles",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Henri Fantin-Latour",
+        "artistDisplayBio": "French, Grenoble 1836–1904 Buré",
+        "artistSuffix": "",
+        "artistAlphaSort": "Fantin-Latour, Henri",
+        "artistNationality": "French",
+        "artistBeginDate": "1836",
+        "artistEndDate": "1904",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q310715",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500025754",
+        "objectDate": "1870",
+        "objectBeginDate": 1865,
+        "objectEndDate": 1875,
+        "medium": "Lithographic crayon, oil paint, and black ink",
+        "dimensions": "11 1/2 x 15 1/2 in. (29.2 x 39.4cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 29.2,
+                    "Width": 39.4
+                }
+            }
+        ],
+        "creditLine": "Gift of Mrs. Helena M. Loewel, in memory of her brother, Charles W. Kraushaar, 1919",
+        "geographyType": "Made in",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "France",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/333817",
+        "tags": [
+            {
+                "term": "Painting",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300054216",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q11629"
+            },
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    }
+]

@@ -1,0 +1,563 @@
+[
+    {
+        "objectID": 437999,
+        "isHighlight": false,
+        "accessionNumber": "1997.391.2",
+        "accessionYear": "1997",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1027.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1027.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161924,
+                "role": "Artist",
+                "name": "Paul Gauguin",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011421",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q37693",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Still Life with Teapot and Fruit",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Paul Gauguin",
+        "artistDisplayBio": "French, Paris 1848–1903 Atuona, Hiva Oa, Marquesas Islands",
+        "artistSuffix": "",
+        "artistAlphaSort": "Gauguin, Paul",
+        "artistNationality": "French",
+        "artistBeginDate": "1848",
+        "artistEndDate": "1903",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q37693",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011421",
+        "objectDate": "1896",
+        "objectBeginDate": 1896,
+        "objectEndDate": 1896,
+        "medium": "Oil on canvas",
+        "dimensions": "18 3/4 x 26 in. (47.6 x 66 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 47.6,
+                    "Width": 66
+                }
+            }
+        ],
+        "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1997, Bequest of Walter H. Annenberg, 2002",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-23T04:53:13.2Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437999",
+        "tags": [
+            {
+                "term": "Fruit",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+            },
+            {
+                "term": "Still Life",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+            },
+            {
+                "term": "Teapots",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300043022",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q245005"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912375",
+        "isTimelineWork": true,
+        "GalleryNumber": "822"
+    },
+    {
+        "objectID": 436449,
+        "isHighlight": false,
+        "accessionNumber": "1993.400.3",
+        "accessionYear": "1993",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1952.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1952.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161924,
+                "role": "Artist",
+                "name": "Paul Gauguin",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011421",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q37693",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "The Siesta",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Paul Gauguin",
+        "artistDisplayBio": "French, Paris 1848–1903 Atuona, Hiva Oa, Marquesas Islands",
+        "artistSuffix": "",
+        "artistAlphaSort": "Gauguin, Paul",
+        "artistNationality": "French",
+        "artistBeginDate": "1848",
+        "artistEndDate": "1903",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q37693",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011421",
+        "objectDate": "ca. 1892–94",
+        "objectBeginDate": 1892,
+        "objectEndDate": 1894,
+        "medium": "Oil on canvas",
+        "dimensions": "35 x 45 3/4 in. (88.9 x 116.2 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 88.9,
+                    "Width": 116.2
+                }
+            }
+        ],
+        "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1993, Bequest of Walter H. Annenberg, 2002",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-24T04:55:48.05Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436449",
+        "tags": [
+            {
+                "term": "Baskets",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300194498",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q201097"
+            },
+            {
+                "term": "Irons",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300185311",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q483634"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q3212828",
+        "isTimelineWork": true,
+        "GalleryNumber": "822"
+    },
+    {
+        "objectID": 438000,
+        "isHighlight": false,
+        "accessionNumber": "1997.60.3",
+        "accessionYear": "1997",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1954.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1954.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161924,
+                "role": "Artist",
+                "name": "Paul Gauguin",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011421",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q37693",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Three Tahitian Women",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Paul Gauguin",
+        "artistDisplayBio": "French, Paris 1848–1903 Atuona, Hiva Oa, Marquesas Islands",
+        "artistSuffix": "",
+        "artistAlphaSort": "Gauguin, Paul",
+        "artistNationality": "French",
+        "artistBeginDate": "1848",
+        "artistEndDate": "1903",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q37693",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011421",
+        "objectDate": "1896",
+        "objectBeginDate": 1896,
+        "objectEndDate": 1896,
+        "medium": "Oil on wood",
+        "dimensions": "9 5/8 x 17 in. (24.4 x 43.2 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 24.4,
+                    "Width": 43.2
+                }
+            }
+        ],
+        "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1997, Bequest of Walter H. Annenberg, 2002",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-24T04:55:48.05Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/438000",
+        "tags": [
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Female Nudes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912008",
+        "isTimelineWork": false,
+        "GalleryNumber": "822"
+    },
+    {
+        "objectID": 438001,
+        "isHighlight": false,
+        "accessionNumber": "1997.391.3",
+        "accessionYear": "1997",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1953.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1953.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161924,
+                "role": "Artist",
+                "name": "Paul Gauguin",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011421",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q37693",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Two Women",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Paul Gauguin",
+        "artistDisplayBio": "French, Paris 1848–1903 Atuona, Hiva Oa, Marquesas Islands",
+        "artistSuffix": "",
+        "artistAlphaSort": "Gauguin, Paul",
+        "artistNationality": "French",
+        "artistBeginDate": "1848",
+        "artistEndDate": "1903",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q37693",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011421",
+        "objectDate": "1901 or 1902",
+        "objectBeginDate": 1901,
+        "objectEndDate": 1902,
+        "medium": "Oil on canvas",
+        "dimensions": "29 x 36 1/4 in. (73.7 x 92.1 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 73.7,
+                    "Width": 92.1
+                }
+            }
+        ],
+        "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1997, Bequest of Walter H. Annenberg, 2002",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-23T04:53:13.2Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/438001",
+        "tags": [
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905435",
+        "isTimelineWork": false,
+        "GalleryNumber": "822"
+    },
+    {
+        "objectID": 438821,
+        "isHighlight": true,
+        "accessionNumber": "51.112.2",
+        "accessionYear": "1951",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1025.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1025.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161924,
+                "role": "Artist",
+                "name": "Paul Gauguin",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011421",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q37693",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Ia Orana Maria (Hail Mary)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Paul Gauguin",
+        "artistDisplayBio": "French, Paris 1848–1903 Atuona, Hiva Oa, Marquesas Islands",
+        "artistSuffix": "",
+        "artistAlphaSort": "Gauguin, Paul",
+        "artistNationality": "French",
+        "artistBeginDate": "1848",
+        "artistEndDate": "1903",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q37693",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011421",
+        "objectDate": "1891",
+        "objectBeginDate": 1891,
+        "objectEndDate": 1891,
+        "medium": "Oil on canvas",
+        "dimensions": "44 3/4 x 34 1/2 in. (113.7 x 87.6 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 113.6652,
+                    "Width": 87.6302
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 8.89,
+                    "Height": 135.2553,
+                    "Width": 109.8552
+                }
+            }
+        ],
+        "creditLine": "Bequest of Sam A. Lewisohn, 1951",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-24T04:55:48.05Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/438821",
+        "tags": [
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Landscapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+            },
+            {
+                "term": "Angels",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+            },
+            {
+                "term": "Virgin Mary",
+                "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+            },
+            {
+                "term": "Jesus",
+                "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q1118465",
+        "isTimelineWork": true,
+        "GalleryNumber": "825"
+    },
+    {
+        "objectID": 436446,
+        "isHighlight": false,
+        "accessionNumber": "49.58.1",
+        "accessionYear": "1949",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1342.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1342.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161924,
+                "role": "Artist",
+                "name": "Paul Gauguin",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011421",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q37693",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Two Tahitian Women",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Paul Gauguin",
+        "artistDisplayBio": "French, Paris 1848–1903 Atuona, Hiva Oa, Marquesas Islands",
+        "artistSuffix": "",
+        "artistAlphaSort": "Gauguin, Paul",
+        "artistNationality": "French",
+        "artistBeginDate": "1848",
+        "artistEndDate": "1903",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q37693",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500011421",
+        "objectDate": "1899",
+        "objectBeginDate": 1899,
+        "objectEndDate": 1899,
+        "medium": "Oil on canvas",
+        "dimensions": "37 x 28 1/2 in. (94 x 72.4 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 94,
+                    "Width": 72.4
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 9.525,
+                    "Height": 121.9202,
+                    "Width": 101.6002
+                }
+            }
+        ],
+        "creditLine": "Gift of William Church Osborn, 1949",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-24T04:55:48.05Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436446",
+        "tags": [
+            {
+                "term": "Female Nudes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q3235403",
+        "isTimelineWork": true,
+        "GalleryNumber": "825"
+    }
+]

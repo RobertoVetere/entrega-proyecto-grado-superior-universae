@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MuseAI</string>
+    <string name="browse_title">Galerías</string>
+    <string name="related_movies">Obras de la colección</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="watch_trailer_1">Ver Colección</string>
+    <string name="ai_chat_welcome">Hola, soy MuseAI, ¿tienes alguna pregunta?</string>
+    <string name="watch_trailer_2"></string>
+    <string name="rent_1"></string>
+    <string name="rent_2"></string>
+    <string name="buy_1"></string>
+    <string name="buy_2"></string>
+    <string name="collection">Movie</string>
+
+    <!-- Descripciones de las colecciones -->
+    <string name="description_renoir">Auguste Renoir (1841-1919) fue un destacado pintor impresionista, conocido por sus vibrantes paisajes, retratos y escenas cotidianas. Su estilo, caracterizado por colores brillantes y pinceladas sueltas, transmite movimiento y vitalidad. Es famoso por sus representaciones de mujeres, niños y escenas de baile.</string>
+    <string name="description_manet">Édouard Manet (1832-1883) fue un pintor francés fundamental en la transición del realismo al impresionismo. Su obra desafió las convenciones artísticas de su tiempo y abrió camino a nuevas formas de expresión. Manet es conocido por su uso innovador de la luz y la sombra, así como por sus composiciones audaces y su enfoque en temas contemporáneos, en lugar de mitológicos o históricos.</string>
+    <string name="description_rembrandt">Rembrandt van Rijn (1606-1669) fue un pintor neerlandés destacado del Siglo de Oro, famoso por su uso magistral de la luz y la sombra para crear expresividad y realismo. Sus obras, como La ronda de noche y La lección de anatomía del Dr. Tulp, incluyen retratos y escenas bíblicas, influyendo profundamente en el arte occidental.</string>
+    <string name="description_van_gogh">Vincent van Gogh (1853-1890) fue un pintor postimpresionista neerlandés, conocido por su uso vibrante del color y pinceladas expresivas. Sus obras más famosas, como "La noche estrellada" y "Los girasoles," reflejan su profunda conexión emocional con el mundo. A pesar de luchar con problemas mentales y recibir poco reconocimiento en vida, su legado ha tenido un impacto duradero en el arte moderno.</string>
+    <string name="description_paul_cezanne">Paul Cézanne (1839-1906) fue un pintor francés, considerado el precursor del cubismo. Su estilo se caracteriza por la simplificación de formas y el uso de la perspectiva, así como por su enfoque en la luz y el color. Obras como "Los jugadores de cartas" y "La montaña Sainte-Victoire" muestran su habilidad para capturar la esencia de la naturaleza y la realidad.</string>
+    <string name="description_paul_gauguin">Paul Gauguin (1848-1903) fue un pintor postimpresionista francés, conocido por su uso audaz del color y su enfoque en la espiritualidad y la cultura primitiva. Sus obras, como "Visión después del sermón" y "La esposa del pescador," reflejan su búsqueda de una vida más simple y auténtica, influenciada por su tiempo en Tahití.</string>
+    <string name="description_georges_seurat">Georges Seurat (1859-1891) fue un pintor francés conocido por desarrollar la técnica del puntillismo, que utiliza pequeños puntos de color para crear imágenes. Su obra más famosa, "Un domingo en la isla de La Grande Jatte," ejemplifica su enfoque meticuloso y su interés en la luz y la atmósfera, marcando una nueva dirección en el arte moderno.</string>
+    <string name="description_colection">Crea y cura tu propia colección de arte utilizando el buscador</string>
+
+
+
+
+    <string name="arte_al_azar">Descubre "Arte al Azar", donde cada acceso te presenta una selección aleatoria de obras únicas. Desde clásicos atemporales hasta gemas ocultas, esta colección te invita a explorar el arte sin límites. ¡Deja que la curiosidad te lleve a nuevas inspiraciones!</string>
+
+    <!-- Mensajes de error -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+
+</resources>

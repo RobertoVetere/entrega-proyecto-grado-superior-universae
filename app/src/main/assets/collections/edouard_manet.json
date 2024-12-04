@@ -1,0 +1,2969 @@
+[
+    {
+        "objectID": 438002,
+        "isHighlight": false,
+        "accessionNumber": "1997.391.4",
+        "accessionYear": "1997",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT4224.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT4224.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Madame Manet (Suzanne Leenhoff, 1829–1906) at Bellevue",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "1880",
+        "objectBeginDate": 1880,
+        "objectEndDate": 1880,
+        "medium": "Oil on canvas",
+        "dimensions": "31 3/4 x 23 3/4 in. (80.6 x 60.3 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 80.6,
+                    "Width": 60.3
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 9.525019,
+                    "Height": 116.20523,
+                    "Width": 100.3302
+                }
+            }
+        ],
+        "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1997, Bequest of Walter H. Annenberg, 2002",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-25T04:53:52.717Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/438002",
+        "tags": [
+            {
+                "term": "Profiles",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905267",
+        "isTimelineWork": true,
+        "GalleryNumber": "821"
+    },
+    {
+        "objectID": 436965,
+        "isHighlight": false,
+        "accessionNumber": "1976.201.14",
+        "accessionYear": "1976",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25465-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-25465-001.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "The Monet Family in Their Garden at Argenteuil",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "1874",
+        "objectBeginDate": 1874,
+        "objectEndDate": 1874,
+        "medium": "Oil on canvas",
+        "dimensions": "24 x 39 1/4 in. (61 x 99.7 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 61,
+                    "Width": 99.7
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 10.477521,
+                    "Height": 85.725174,
+                    "Width": 123.507744
+                }
+            }
+        ],
+        "creditLine": "Bequest of Joan Whitney Payson, 1975",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436965",
+        "tags": [
+            {
+                "term": "Gardens",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300008090",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q1107656"
+            },
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Family",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300435378",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8436"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911640",
+        "isTimelineWork": true,
+        "GalleryNumber": "818"
+    },
+    {
+        "objectID": 436964,
+        "isHighlight": true,
+        "accessionNumber": "89.21.3",
+        "accessionYear": "1889",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP273977.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP273977.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ep/original/LC-davis_letter.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Young Lady in 1866",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "1866",
+        "objectBeginDate": 1866,
+        "objectEndDate": 1866,
+        "medium": "Oil on canvas",
+        "dimensions": "72 7/8 x 50 5/8 in. (185.1 x 128.6 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 185.1,
+                    "Width": 128.6
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 10.16,
+                    "Height": 204.4704,
+                    "Width": 173.3553
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 15.24003,
+                    "Height": 226.06046,
+                    "Width": 170.18034
+                }
+            }
+        ],
+        "creditLine": "Gift of Erwin Davis, 1889",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-26T04:53:40.82Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436964",
+        "tags": [
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Parrots",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300250076",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q15548309"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q942523",
+        "isTimelineWork": true,
+        "GalleryNumber": "810"
+    },
+    {
+        "objectID": 436950,
+        "isHighlight": false,
+        "accessionNumber": "29.100.51",
+        "accessionYear": "1929",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17679-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-17679-001.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "The Dead Christ with Angels",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "1864",
+        "objectBeginDate": 1864,
+        "objectEndDate": 1864,
+        "medium": "Oil on canvas",
+        "dimensions": "70 5/8 x 59 in. (179.4 x 149.9 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 179.4,
+                    "Width": 149.9
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 8.89,
+                    "Height": 213.3604,
+                    "Width": 181.6104
+                }
+            }
+        ],
+        "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436950",
+        "tags": [
+            {
+                "term": "Angels",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+            },
+            {
+                "term": "Christ",
+                "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+            },
+            {
+                "term": "Snakes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300250870",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q2102"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q2752079",
+        "isTimelineWork": true,
+        "GalleryNumber": "810"
+    },
+    {
+        "objectID": 438144,
+        "isHighlight": false,
+        "accessionNumber": "1999.442",
+        "accessionYear": "1999",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25464-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-25464-001.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "The \"Kearsarge\" at Boulogne",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "1864",
+        "objectBeginDate": 1864,
+        "objectEndDate": 1864,
+        "medium": "Oil on canvas",
+        "dimensions": "32 1/8 x 39 3/8 in. (81.6 x 100 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 81.6,
+                    "Width": 100
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 7.620015,
+                    "Height": 100.647705,
+                    "Width": 120.33274
+                }
+            },
+            {
+                "elementName": "Glazing",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 82.232666,
+                    "Width": 101.9177
+                }
+            }
+        ],
+        "creditLine": "Gift of Peter H. B. Frelinghuysen, and Purchase, Mr. and Mrs. Richard J. Bernhard Gift, by exchange, Gifts of Mr. and Mrs. Richard Rodgers and Joanne Toor Cummings, by exchange, and Drue Heinz Trust, The Dillon Fund, The Vincent Astor Foundation, Mr. and Mrs. Henry R. Kravis, The Charles Engelhard Foundation, and Florence and Herbert Irving Gifts, 1999",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/438144",
+        "tags": [
+            {
+                "term": "Ships",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+            },
+            {
+                "term": "Boats",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q7744027",
+        "isTimelineWork": false,
+        "GalleryNumber": "818"
+    },
+    {
+        "objectID": 337625,
+        "isHighlight": true,
+        "accessionNumber": "22.60.18",
+        "accessionYear": "1922",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP820765.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP820765.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            },
+            {
+                "constituentID": 164969,
+                "role": "Publisher",
+                "name": "Lemercier &amp; Cie.",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500045872",
+                "constituentWikidata_URL": "",
+                "gender": ""
+            },
+            {
+                "constituentID": 164969,
+                "role": "Printer",
+                "name": "Lemercier &amp; Cie.",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500045872",
+                "constituentWikidata_URL": "",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "Civil War",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "1871–73 [published 1874]",
+        "objectBeginDate": 1874,
+        "objectEndDate": 1874,
+        "medium": "Lithograph on chine collé; second state of two",
+        "dimensions": "Image: 15 5/8 × 20 in. (39.7 × 50.8 cm)\r\nSheet: 19 1/8 × 24 3/4 in. (48.6 × 62.9 cm)",
+        "measurements": [
+            {
+                "elementName": "Image",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 39.68758,
+                    "Width": 50.800102
+                }
+            },
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 48.6,
+                    "Width": 62.9
+                }
+            }
+        ],
+        "creditLine": "Rogers Fund, 1922",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/337625",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Death",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300151836",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q4"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q104413024",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 337626,
+        "isHighlight": false,
+        "accessionNumber": "23.21.22",
+        "accessionYear": "1923",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP815345.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP815345.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            },
+            {
+                "constituentID": 162143,
+                "role": "Sitter",
+                "name": "Portrait of Berthe Morisot",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029669",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q105320",
+                "gender": "Female"
+            },
+            {
+                "constituentID": 164969,
+                "role": "Printer",
+                "name": "Lemercier &amp; Cie.",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500045872",
+                "constituentWikidata_URL": "",
+                "gender": ""
+            },
+            {
+                "constituentID": 164969,
+                "role": "Publisher",
+                "name": "Lemercier &amp; Cie.",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500045872",
+                "constituentWikidata_URL": "",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "Berthe Morisot (in Black)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "1872–74, published 1884",
+        "objectBeginDate": 1872,
+        "objectEndDate": 1884,
+        "medium": "Lithograph on chine collé; second state of two",
+        "dimensions": "Image: 9 13/16 x 6 15/16 in. (24.9 x 17.6 cm)\r\nSheet: 15 3/4 x 11 7/8in. (40 x 30.2cm)",
+        "measurements": [
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 40,
+                    "Width": 30.2
+                }
+            },
+            {
+                "elementName": "Image",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 24.9,
+                    "Width": 17.6
+                }
+            }
+        ],
+        "creditLine": "Harris Brisbane Dick Fund, 1923",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/337626",
+        "tags": [
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 436952,
+        "isHighlight": false,
+        "accessionNumber": "10.36",
+        "accessionYear": "1910",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1931.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1931.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "The Funeral",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "ca. 1867",
+        "objectBeginDate": 1867,
+        "objectEndDate": 1867,
+        "medium": "Oil on canvas",
+        "dimensions": "28 5/8 x 35 5/8 in. (72.7 x 90.5 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 72.7,
+                    "Width": 90.5
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 5.715,
+                    "Height": 97.1552,
+                    "Width": 114.9352
+                }
+            }
+        ],
+        "creditLine": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1909",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436952",
+        "tags": [
+            {
+                "term": "Paris",
+                "AAT_URL": "http://vocab.getty.edu/page/tgn/7008038",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q90"
+            },
+            {
+                "term": "Landscapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+            },
+            {
+                "term": "Funerals",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300069162",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q201676"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q2494850",
+        "isTimelineWork": true,
+        "GalleryNumber": "810"
+    },
+    {
+        "objectID": 436948,
+        "isHighlight": false,
+        "accessionNumber": "89.21.2",
+        "accessionYear": "1889",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14936-027.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14936-027.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ep/original/LC-davis_letter.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Boy with a Sword",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "1861",
+        "objectBeginDate": 1861,
+        "objectEndDate": 1861,
+        "medium": "Oil on canvas",
+        "dimensions": "51 5/8 x 36 3/4 in. (131.1 x 93.4 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 131.1,
+                    "Width": 93.3
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 10.16,
+                    "Height": 157.4803,
+                    "Width": 120.0152
+                }
+            },
+            {
+                "elementName": "Glazing",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 131.76276,
+                    "Width": 94.29769
+                }
+            }
+        ],
+        "creditLine": "Gift of Erwin Davis, 1889",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-26T04:53:40.82Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436948",
+        "tags": [
+            {
+                "term": "Swords",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300037048",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q12791"
+            },
+            {
+                "term": "Boys",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q1844748",
+        "isTimelineWork": false,
+        "GalleryNumber": "810"
+    },
+    {
+        "objectID": 436960,
+        "isHighlight": false,
+        "accessionNumber": "29.100.52",
+        "accessionYear": "1929",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1933.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1933.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "A Matador",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "1866–67",
+        "objectBeginDate": 1866,
+        "objectEndDate": 1867,
+        "medium": "Oil on canvas",
+        "dimensions": "67 3/8 x 44 1/2 in. (171.1 x 113 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 171.1,
+                    "Width": 113
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 13.97,
+                    "Height": 222.2504,
+                    "Width": 158.7503
+                }
+            }
+        ],
+        "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436960",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q3224381",
+        "isTimelineWork": true,
+        "GalleryNumber": "810"
+    },
+    {
+        "objectID": 436946,
+        "isHighlight": false,
+        "accessionNumber": "1991.287",
+        "accessionYear": "1991",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-13655-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-13655-001.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "The Brioche",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "1870",
+        "objectBeginDate": 1870,
+        "objectEndDate": 1870,
+        "medium": "Oil on canvas",
+        "dimensions": "25 5/8 x 31 7/8 in. (65.1 x 81 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 65.1,
+                    "Width": 81
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 12.700026,
+                    "Height": 99.060196,
+                    "Width": 115.57023
+                }
+            }
+        ],
+        "creditLine": "Gift and Bequest of David and Peggy Rockefeller, 1991, 2017",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436946",
+        "tags": [
+            {
+                "term": "Bread",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300262820",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q7802"
+            },
+            {
+                "term": "Grapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+            },
+            {
+                "term": "Peaches",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300266272",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q13202263"
+            },
+            {
+                "term": "Flowers",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+            },
+            {
+                "term": "Still Life",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905377",
+        "isTimelineWork": false,
+        "GalleryNumber": "810"
+    },
+    {
+        "objectID": 436944,
+        "isHighlight": true,
+        "accessionNumber": "49.58.2",
+        "accessionYear": "1949",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/dp130799.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/dp130799.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "The Spanish Singer",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "1860",
+        "objectBeginDate": 1860,
+        "objectEndDate": 1860,
+        "medium": "Oil on canvas",
+        "dimensions": "58 x 45 in. (147.3 x 114.3 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 147.3,
+                    "Width": 114.3
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 16.51,
+                    "Height": 190.5004,
+                    "Width": 151.1303
+                }
+            }
+        ],
+        "creditLine": "Gift of William Church Osborn, 1949",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-12T04:53:19.753Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436944",
+        "tags": [
+            {
+                "term": "Music",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300435214",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q638"
+            },
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Guitars",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300042025",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q6607"
+            },
+            {
+                "term": "Musicians",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025666",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q639669"
+            },
+            {
+                "term": "Singers",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025684",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q177220"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q2024709",
+        "isTimelineWork": true,
+        "GalleryNumber": "810"
+    },
+    {
+        "objectID": 436945,
+        "isHighlight": false,
+        "accessionNumber": "29.100.53",
+        "accessionYear": "1929",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25649-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-25649-001.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ep/original/LC-29_100_53-xray.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Mademoiselle V. . . in the Costume of an Espada",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "1862",
+        "objectBeginDate": 1862,
+        "objectEndDate": 1862,
+        "medium": "Oil on canvas",
+        "dimensions": "65 x 50 1/4 in. (165.1 x 127.6 cm)",
+        "measurements": [
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 12.7,
+                    "Height": 193.0404,
+                    "Width": 157.4803
+                }
+            },
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 165.1,
+                    "Width": 127.6
+                }
+            }
+        ],
+        "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-19T04:54:04.793Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436945",
+        "tags": [
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Bulls",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300250117",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q693690"
+            },
+            {
+                "term": "Horses",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q72650",
+        "isTimelineWork": true,
+        "GalleryNumber": "810"
+    },
+    {
+        "objectID": 436947,
+        "isHighlight": true,
+        "accessionNumber": "29.100.115",
+        "accessionYear": "1929",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25466-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-25466-001.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Boating",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "1874",
+        "objectBeginDate": 1874,
+        "objectEndDate": 1874,
+        "medium": "Oil on canvas",
+        "dimensions": "38 1/4 x 51 1/4 in. (97.2 x 130.2 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 97.2,
+                    "Width": 130.2
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 13.970028,
+                    "Height": 121.9202,
+                    "Width": 154.3053
+                }
+            },
+            {
+                "elementName": "Glazing",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 99.3777,
+                    "Width": 131.76276
+                }
+            }
+        ],
+        "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436947",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Boats",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q15290965",
+        "isTimelineWork": true,
+        "GalleryNumber": "818"
+    },
+    {
+        "objectID": 436953,
+        "isHighlight": false,
+        "accessionNumber": "29.100.55",
+        "accessionYear": "1929",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT12026.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT12026.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Drawing",
+        "title": "George Moore (1852–1933)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "1879",
+        "objectBeginDate": 1879,
+        "objectEndDate": 1879,
+        "medium": "Pastel on canvas",
+        "dimensions": "21 3/4 x 13 7/8 in. (55.2 x 35.2 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 55.2,
+                    "Width": 35.2
+                }
+            }
+        ],
+        "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-25T04:53:52.717Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436953",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912891",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 438819,
+        "isHighlight": false,
+        "accessionNumber": "29.100.54",
+        "accessionYear": "1929",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT862.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT862.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Young Man in the Costume of a Majo",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "1863",
+        "objectBeginDate": 1863,
+        "objectEndDate": 1863,
+        "medium": "Oil on canvas",
+        "dimensions": "74 x 49 1/8 in. (188 x 124.8 cm)",
+        "measurements": null,
+        "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-19T04:54:04.793Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/438819",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q113262",
+        "isTimelineWork": true,
+        "GalleryNumber": "810"
+    },
+    {
+        "objectID": 333813,
+        "isHighlight": true,
+        "accessionNumber": "19.51.7",
+        "accessionYear": "1919",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP805813.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP805813.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161821,
+                "role": "Artist",
+                "name": "Edgar Degas",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115194",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q46373",
+                "gender": ""
+            },
+            {
+                "constituentID": 162094,
+                "role": "Sitter",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Drawing",
+        "title": "Édouard Manet, Seated, Holding His Hat",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edgar Degas",
+        "artistDisplayBio": "French, Paris 1834–1917 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Degas, Edgar",
+        "artistNationality": "French",
+        "artistBeginDate": "1834",
+        "artistEndDate": "1917",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q46373",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115194",
+        "objectDate": "ca. 1868",
+        "objectBeginDate": 1863,
+        "objectEndDate": 1873,
+        "medium": "Graphite and black chalk",
+        "dimensions": "Sheet: 13 1/16 x 9 1/16 in. (33.1 x 23 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 33.1,
+                    "Width": 23
+                }
+            }
+        ],
+        "creditLine": "Rogers Fund, 1918",
+        "geographyType": "Made in",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "France",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/333813",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Artists",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025103",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q483501"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29384583",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 436951,
+        "isHighlight": false,
+        "accessionNumber": "57.10",
+        "accessionYear": "1957",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25459-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-25459-001.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Fishing",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "ca. 1862–63",
+        "objectBeginDate": 1862,
+        "objectEndDate": 1863,
+        "medium": "Oil on canvas",
+        "dimensions": "30 1/4 x 48 1/2 in. (76.8 x 123.2 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 76.8,
+                    "Width": 123.2
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 8.255,
+                    "Height": 110.4902,
+                    "Width": 157.1628
+                }
+            },
+            {
+                "elementName": "Glazing",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 77.78766,
+                    "Width": 124.142746
+                }
+            }
+        ],
+        "creditLine": "Purchase, Mr. and Mrs. Richard J. Bernhard Gift, 1957",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436951",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Fishing",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300239470",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q14373"
+            },
+            {
+                "term": "Dogs",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+            },
+            {
+                "term": "Boats",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911910",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 436957,
+        "isHighlight": false,
+        "accessionNumber": "67.187.81",
+        "accessionYear": "1967",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17058-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-17058-001.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Madame Edouard Manet (Suzanne Leenhoff, 1829–1906)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "ca. 1873",
+        "objectBeginDate": 1870,
+        "objectEndDate": 1876,
+        "medium": "Oil on canvas",
+        "dimensions": "39 1/2 x 30 7/8 in. (100.3 x 78.4 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 100.3,
+                    "Width": 78.4
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 9.525,
+                    "Height": 120.0152,
+                    "Width": 98.4252
+                }
+            }
+        ],
+        "creditLine": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436957",
+        "tags": [
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912049",
+        "isTimelineWork": true,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 436961,
+        "isHighlight": false,
+        "accessionNumber": "1976.201.16",
+        "accessionYear": "1976",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP123836.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP123836.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Peonies",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "1864–65",
+        "objectBeginDate": 1864,
+        "objectEndDate": 1865,
+        "medium": "Oil on canvas",
+        "dimensions": "23 3/8 x 13 7/8 in. (59.4 x 35.2 cm)",
+        "measurements": [
+            {
+                "elementName": "Glazing",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 60.32512,
+                    "Width": 36.830074
+                }
+            },
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 59.4,
+                    "Width": 35.2
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 10.16,
+                    "Height": 83.1852,
+                    "Width": 59.6901
+                }
+            }
+        ],
+        "creditLine": "Bequest of Joan Whitney Payson, 1975",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436961",
+        "tags": [
+            {
+                "term": "Still Life",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+            },
+            {
+                "term": "Peonies",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300380052",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q147105"
+            },
+            {
+                "term": "Vases",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132254",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191851"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911893",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 337531,
+        "isHighlight": false,
+        "accessionNumber": "21.76.30",
+        "accessionYear": "1921",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP815327.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP815327.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "Jeanne (Spring)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "Strölin edition, 1905",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "1882",
+        "objectBeginDate": 1882,
+        "objectEndDate": 1882,
+        "medium": "Etching on blue laid paper, only state",
+        "dimensions": "Plate: 6 3/16 x 4 1/2 in. (15.7 x 11.4 cm)\r\nSheet: 14 9/16 x 9 5/8in. (37 x 24.4cm)",
+        "measurements": [
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 37,
+                    "Width": 24.4
+                }
+            },
+            {
+                "elementName": "Plate",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 15.7,
+                    "Width": 11.4
+                }
+            }
+        ],
+        "creditLine": "Rogers Fund, 1921",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2023-01-05T04:47:16Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/337531",
+        "tags": [
+            {
+                "term": "Profiles",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Parasols",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300046218",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q1762975"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 436954,
+        "isHighlight": false,
+        "accessionNumber": "55.193",
+        "accessionYear": "1955",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25220-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-25220-001.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "George Moore (1852–1933) at the Café",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "1878 or 1879",
+        "objectBeginDate": 1878,
+        "objectEndDate": 1879,
+        "medium": "Oil on canvas",
+        "dimensions": "25 3/4 x 32 in. (65.4 x 81.3 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 65.4,
+                    "Width": 81.3
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 8.89,
+                    "Height": 88.9002,
+                    "Width": 105.4102
+                }
+            }
+        ],
+        "creditLine": "Gift of Mrs. Ralph J. Hines, 1955",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436954",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905443",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 334737,
+        "isHighlight": false,
+        "accessionNumber": "1998.106",
+        "accessionYear": "1998",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP807591.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP807591.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/dp/original/Fig012R3_31D.jpg",
+            "https://images.metmuseum.org/CRDImages/dp/original/DT4278.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            },
+            {
+                "constituentID": 95527,
+                "role": "Sitter",
+                "name": "Suzanne Manet",
+                "constituentULAN_URL": "",
+                "constituentWikidata_URL": "",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Drawing",
+        "title": "Suzanne Manet at Bellevue",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "1880",
+        "objectBeginDate": 1880,
+        "objectEndDate": 1880,
+        "medium": "Brush and black wash over graphite on wove paper",
+        "dimensions": "6-3/16 x 4-5/8 in.  (15.7 x 11.7 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 15.7,
+                    "Width": 11.7
+                }
+            }
+        ],
+        "creditLine": "Purchase, The Annenberg Foundation Gift, 1998",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/334737",
+        "tags": [
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 436958,
+        "isHighlight": false,
+        "accessionNumber": "29.100.56",
+        "accessionYear": "1929",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT241927.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT241927.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Drawing",
+        "title": "Mademoiselle Isabelle Lemonnier (1857–1926)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "1879–82",
+        "objectBeginDate": 1879,
+        "objectEndDate": 1882,
+        "medium": "Pastel on canvas",
+        "dimensions": "22 x 18 1/4 in. (55.9 x 46.4 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 55.9,
+                    "Width": 46.4
+                }
+            }
+        ],
+        "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436958",
+        "tags": [
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19913314",
+        "isTimelineWork": false,
+        "GalleryNumber": "817"
+    },
+    {
+        "objectID": 337536,
+        "isHighlight": false,
+        "accessionNumber": "1983.1093",
+        "accessionYear": "1983",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP815234.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP815234.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "Olympia (published plate)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "1867",
+        "objectBeginDate": 1867,
+        "objectEndDate": 1867,
+        "medium": "Etching; second state of six",
+        "dimensions": "plate: 3 3/8 x 8 1/8in. (8.6 x 20.6cm)\r\nsheet: 3 7/8 x 8 1/2in. (9.8 x 21.6cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 8.6,
+                    "Width": 20.6
+                }
+            },
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 9.8,
+                    "Width": 21.6
+                }
+            }
+        ],
+        "creditLine": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1983",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/337536",
+        "tags": [
+            {
+                "term": "Animals",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300249525",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q729"
+            },
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Female Nudes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+            },
+            {
+                "term": "Flowers",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 337622,
+        "isHighlight": false,
+        "accessionNumber": "20.17.2",
+        "accessionYear": "1920",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP108215.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP108215.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "The Races",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "1865–72, published 1884",
+        "objectBeginDate": 1884,
+        "objectEndDate": 1884,
+        "medium": "Lithograph on chine collé; third state of three",
+        "dimensions": "Image: 15 1/4 × 20 1/8 in. (38.7 × 51.1 cm)\r\nSheet: 20 7/8 × 26 7/8 in. (53 × 68.3 cm)",
+        "measurements": [
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 53,
+                    "Width": 68.3
+                }
+            },
+            {
+                "elementName": "Image",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 38.735077,
+                    "Width": 51.117603
+                }
+            }
+        ],
+        "creditLine": "Rogers Fund, 1920",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/337622",
+        "tags": [
+            {
+                "term": "Sports",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300222725",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q349"
+            },
+            {
+                "term": "Horses",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": true,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 436956,
+        "isHighlight": false,
+        "accessionNumber": "50.71.1",
+        "accessionYear": "1950",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP241909.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP241909.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Jean-Baptiste Faure (1830–1914)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "1882–83",
+        "objectBeginDate": 1882,
+        "objectEndDate": 1883,
+        "medium": "Oil on canvas",
+        "dimensions": "23 1/4 x 19 1/2 in. (59.1 x 49.5 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 59.1,
+                    "Width": 49.5
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 8.255016,
+                    "Height": 86.360176,
+                    "Width": 74.29515
+                }
+            }
+        ],
+        "creditLine": "Gift of Mr. and Mrs. William B. Jaffe, 1950",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2023-04-18T17:52:36.163Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436956",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19912763",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 333814,
+        "isHighlight": false,
+        "accessionNumber": "19.51.8",
+        "accessionYear": "1919",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP805816.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP805816.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161821,
+                "role": "Artist",
+                "name": "Edgar Degas",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115194",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q46373",
+                "gender": ""
+            },
+            {
+                "constituentID": 162094,
+                "role": "Sitter",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Drawing",
+        "title": "Édouard Manet at the Races",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edgar Degas",
+        "artistDisplayBio": "French, Paris 1834–1917 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Degas, Edgar",
+        "artistNationality": "French",
+        "artistBeginDate": "1834",
+        "artistEndDate": "1917",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q46373",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115194",
+        "objectDate": "ca. 1868–69",
+        "objectBeginDate": 1863,
+        "objectEndDate": 1873,
+        "medium": "Graphite and black chalk",
+        "dimensions": "Sheet: 12 5/8 x 9 11/16 in. (32.1 x 24.6cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 32.1,
+                    "Width": 24.6
+                }
+            }
+        ],
+        "creditLine": "Rogers Fund, 1918",
+        "geographyType": "Made in",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "France",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/333814",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q59590703",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 436949,
+        "isHighlight": false,
+        "accessionNumber": "29.100.114",
+        "accessionYear": "1929",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25457-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-25457-001.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 162094,
+                "role": "Artist",
+                "name": "Edouard Manet",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Copy after Delacroix's \"Bark of Dante\"",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Edouard Manet",
+        "artistDisplayBio": "French, Paris 1832–1883 Paris",
+        "artistSuffix": "",
+        "artistAlphaSort": "Manet, Edouard",
+        "artistNationality": "French",
+        "artistBeginDate": "1832",
+        "artistEndDate": "1883",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "objectDate": "ca. 1859",
+        "objectBeginDate": 1854,
+        "objectEndDate": 1864,
+        "medium": "Oil on canvas",
+        "dimensions": "13 x 16 1/8 in. (33 x 41 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 33,
+                    "Width": 41
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 8.89,
+                    "Height": 52.0701,
+                    "Width": 59.6901
+                }
+            }
+        ],
+        "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436949",
+        "tags": [
+            {
+                "term": "Boats",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20167143",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    }
+]

@@ -1,0 +1,2331 @@
+[
+    {
+        "objectID": 459211,
+        "isHighlight": true,
+        "accessionNumber": "1975.1.859",
+        "accessionYear": "1975",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP809594.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/rl/web-large/DP809594.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/rl/original/h2_1975_1_859.jpg",
+            "https://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975-1-859.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "Robert Lehman Collection",
+        "objectName": "Drawing",
+        "title": "Head of a Young Woman",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "1522",
+        "objectBeginDate": 1522,
+        "objectEndDate": 1522,
+        "medium": "Black chalk highlighted with white chalk (abraded) on green prepared paper.",
+        "dimensions": "7 7/8 x 5 15/16 in.  (20 x 15.1 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 20,
+                    "Width": 15.1
+                }
+            }
+        ],
+        "creditLine": "Robert Lehman Collection, 1975",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/459211",
+        "tags": [
+            {
+                "term": "Heads",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300375054",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q3409626"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20187871",
+        "isTimelineWork": true,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 336228,
+        "isHighlight": true,
+        "accessionNumber": "43.106.1",
+        "accessionYear": "1943",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP820348.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP820348.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/dp/original/MM13762.jpg",
+            "https://images.metmuseum.org/CRDImages/dp/original/DT11879.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "Melencolia I",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "1514",
+        "objectBeginDate": 1514,
+        "objectEndDate": 1514,
+        "medium": "Engraving",
+        "dimensions": "Plate: 9 7/16 × 7 5/16 in. (24 × 18.5 cm)",
+        "measurements": [
+            {
+                "elementName": "Plate",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 24,
+                    "Height": 18.5
+                }
+            }
+        ],
+        "creditLine": "Harris Brisbane Dick Fund, 1943",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/336228",
+        "tags": [
+            {
+                "term": "Contemplation",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300264547",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q1123855"
+            },
+            {
+                "term": "Putti",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300250465",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q284865"
+            },
+            {
+                "term": "Dogs",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+            },
+            {
+                "term": "Geometry",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300054529",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8087"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q1362177",
+        "isTimelineWork": true,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 436244,
+        "isHighlight": true,
+        "accessionNumber": "14.40.633",
+        "accessionYear": "1914",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP280846.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP280846.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ep/original/GermanCat25_Xraynocap.jpg",
+            "https://images.metmuseum.org/CRDImages/ep/original/LC-14_40_633-2.jpg",
+            "https://images.metmuseum.org/CRDImages/ep/original/LC-14_40_633-3.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Virgin and Child with Saint Anne",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "probably 1519",
+        "objectBeginDate": 1519,
+        "objectEndDate": 1519,
+        "medium": "Oil on linden",
+        "dimensions": "23 5/8 x 19 5/8 in. (60 x 49.8 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 60,
+                    "Width": 49.8
+                }
+            }
+        ],
+        "creditLine": "Bequest of Benjamin Altman, 1913",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-19T04:54:04.793Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436244",
+        "tags": [
+            {
+                "term": "Madonna and Child",
+                "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+            },
+            {
+                "term": "Saint Anne",
+                "AAT_URL": "http://vocab.getty.edu/page/ia/901001010",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q164294"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q3948737",
+        "isTimelineWork": true,
+        "GalleryNumber": "607"
+    },
+    {
+        "objectID": 436243,
+        "isHighlight": false,
+        "accessionNumber": "32.100.64",
+        "accessionYear": "1932",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164819.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP164819.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ep/original/GermanCat23_IRRnocap.jpg",
+            "https://images.metmuseum.org/CRDImages/ep/original/GermanCat23_Xraynocap.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Salvator Mundi",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "ca. 1505",
+        "objectBeginDate": 1500,
+        "objectEndDate": 1510,
+        "medium": "Oil on linden",
+        "dimensions": "22 7/8 x 18 1/2in. (58.1 x 47cm)",
+        "measurements": [
+            {
+                "elementName": "Glazing",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 58.737617,
+                    "Width": 46.672592
+                }
+            },
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 58.1,
+                    "Width": 47
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 7.62,
+                    "Height": 69.2151,
+                    "Width": 58.4201
+                }
+            }
+        ],
+        "creditLine": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436243",
+        "tags": [
+            {
+                "term": "Christ",
+                "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911432",
+        "isTimelineWork": true,
+        "GalleryNumber": "607"
+    },
+    {
+        "objectID": 383756,
+        "isHighlight": false,
+        "accessionNumber": "19.73.256",
+        "accessionYear": "1919",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP-29359-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-29359-001.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Block",
+        "title": "The Martyrdom of Saint Catherine",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "ca. 1498",
+        "objectBeginDate": 1493,
+        "objectEndDate": 1503,
+        "medium": "Black ink on carved pearwood",
+        "dimensions": "15 1/2 × 11 1/8 × 1 in. (39.4 × 28.3 × 2.6 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 2.6,
+                    "Height": 39.37008,
+                    "Width": 28.3
+                }
+            }
+        ],
+        "creditLine": "Gift of Junius Spencer Morgan, 1919",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Blocks",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2023-10-05T04:56:05.273Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/383756",
+        "tags": [
+            {
+                "term": "Saint Catherine",
+                "AAT_URL": null,
+                "Wikidata_URL": null
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": "520"
+    },
+    {
+        "objectID": 360018,
+        "isHighlight": false,
+        "accessionNumber": "19.73.85",
+        "accessionYear": "1919",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP815742.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP815742.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/dp/original/MM4139.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "Melencolia I",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "1514",
+        "objectBeginDate": 1514,
+        "objectEndDate": 1514,
+        "medium": "Engraving; second state",
+        "dimensions": "sheet: 9 9/16 x 7 7/16 in. (24.3 x 18.9 cm) trimmed to plate line",
+        "measurements": [
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 24.2888,
+                    "Width": 18.8913
+                }
+            }
+        ],
+        "creditLine": "Fletcher Fund, 1919",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2022-10-20T04:55:06.267Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/360018",
+        "tags": [
+            {
+                "term": "Contemplation",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300264547",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q1123855"
+            },
+            {
+                "term": "Putti",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300250465",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q284865"
+            },
+            {
+                "term": "Dogs",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+            },
+            {
+                "term": "Geometry",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300054529",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8087"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 459225,
+        "isHighlight": false,
+        "accessionNumber": "1975.1.861",
+        "accessionYear": "1975",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP809590.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/rl/web-large/DP809590.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/rl/original/243968.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "Robert Lehman Collection",
+        "objectName": "Drawing",
+        "title": "Fortuna in a Niche",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "1498",
+        "objectBeginDate": 1498,
+        "objectEndDate": 1498,
+        "medium": "Pen and greenish brown ink",
+        "dimensions": "12 13/16 x 4 11/16 in.  (32.5 x 11.9 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 32.5,
+                    "Width": 11.9
+                }
+            }
+        ],
+        "creditLine": "Robert Lehman Collection, 1975",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/459225",
+        "tags": [
+            {
+                "term": "Female Nudes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 388634,
+        "isHighlight": false,
+        "accessionNumber": "1984.1201.1",
+        "accessionYear": "1984",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP820484.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP820484.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "The Bath House",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "n.d.",
+        "objectBeginDate": 1485,
+        "objectEndDate": 1528,
+        "medium": "Woodcut",
+        "dimensions": "sheet: 15 3/8 x 11 1/8 in. (39.1 x 28.3 cm)",
+        "measurements": [
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 39.052578,
+                    "Width": 28.257557
+                }
+            }
+        ],
+        "creditLine": "George Khuner Collection, Bequest of Marianne Khuner, 1984",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/388634",
+        "tags": [
+            {
+                "term": "Male Nudes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 358249,
+        "isHighlight": false,
+        "accessionNumber": "19.73.51",
+        "accessionYear": "1919",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP815733.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP815733.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/dp/original/DP120348.jpg",
+            "https://images.metmuseum.org/CRDImages/dp/original/DP102204.jpg",
+            "https://images.metmuseum.org/CRDImages/dp/original/45233.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "The Holy Family",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "1512–13",
+        "objectBeginDate": 1512,
+        "objectEndDate": 1513,
+        "medium": "Drypoint",
+        "dimensions": "Sheet: 8 1/4 x 7 1/8 in. (21 x 18.1 cm)",
+        "measurements": [
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 20.955,
+                    "Width": 18.0975
+                }
+            }
+        ],
+        "creditLine": "Fletcher Fund, 1919",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-08-27T04:54:25.67Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/358249",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Holy Family",
+                "AAT_URL": "http://vocab.getty.edu/page/ia/901001175",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q618057"
+            },
+            {
+                "term": "Virgin Mary",
+                "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+            },
+            {
+                "term": "Jesus",
+                "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+            },
+            {
+                "term": "Joseph",
+                "AAT_URL": "http://vocab.getty.edu/page/ia/901000953",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q128267"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q18338521",
+        "isTimelineWork": true,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 387882,
+        "isHighlight": false,
+        "accessionNumber": "19.70.1",
+        "accessionYear": "1919",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP215648.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP215648.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/dp/original/Fig 25.1.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "The Man of Sorrows Mocked by a Soldier, Frontispiece to the Great Passion",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "n.d.",
+        "objectBeginDate": 1485,
+        "objectEndDate": 1528,
+        "medium": "Woodcut",
+        "dimensions": "sheet: 8 3/4 x 7 13/16 in. (22.2 x 19.8 cm)\r\nimage: 7 3/4 x 7 9/16 in. (19.7 x 19.2 cm)",
+        "measurements": [
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 22.225044,
+                    "Width": 19.84379
+                }
+            },
+            {
+                "elementName": "Image",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 19.68504,
+                    "Width": 19.208788
+                }
+            }
+        ],
+        "creditLine": "Rogers Fund, 1919",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-08-27T04:54:25.67Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/387882",
+        "tags": [
+            {
+                "term": "Soldiers",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+            },
+            {
+                "term": "Christ",
+                "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q18338548",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 390875,
+        "isHighlight": false,
+        "accessionNumber": "19.73.23",
+        "accessionYear": "1919",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP815772.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP815772.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "The Man of Sorrows",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "1515",
+        "objectBeginDate": 1515,
+        "objectEndDate": 1515,
+        "medium": "Etching on iron; first state of three",
+        "dimensions": "Sheet: 4 5/8 × 2 7/8 in. (11.8 × 7.3 cm)\r\nPlate: 4 3/8 × 2 9/16 in. (11.1 × 6.5 cm)",
+        "measurements": [
+            {
+                "elementName": "Plate",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 11.1,
+                    "Width": 6.5
+                }
+            },
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 11.8,
+                    "Width": 7.3
+                }
+            }
+        ],
+        "creditLine": "Fletcher Fund, 1919",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-08-27T04:54:25.67Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/390875",
+        "tags": [
+            {
+                "term": "Sadness",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300055166",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q169251"
+            },
+            {
+                "term": "Christ",
+                "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q18338524",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 390876,
+        "isHighlight": false,
+        "accessionNumber": "19.73.24",
+        "accessionYear": "1919",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP815773.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP815773.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "The Man of Sorrows",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "1515",
+        "objectBeginDate": 1515,
+        "objectEndDate": 1515,
+        "medium": "Etching on iron; second state of three",
+        "dimensions": "Sheet: 4 3/8 × 2 9/16 in. (11.1 × 6.5 cm)",
+        "measurements": [
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 11.1,
+                    "Width": 6.5
+                }
+            }
+        ],
+        "creditLine": "Fletcher Fund, 1919",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-08-27T04:54:25.67Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/390876",
+        "tags": [
+            {
+                "term": "Christ",
+                "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q18338524",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 390874,
+        "isHighlight": false,
+        "accessionNumber": "19.73.22",
+        "accessionYear": "1919",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP815771.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP815771.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "The Man of Sorrows",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "1515",
+        "objectBeginDate": 1515,
+        "objectEndDate": 1515,
+        "medium": "Etching on iron; first state of three",
+        "dimensions": "Sheet: 4 3/8 × 2 9/16 in. (11.1 × 6.5 cm)",
+        "measurements": [
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 11.1,
+                    "Width": 6.5
+                }
+            }
+        ],
+        "creditLine": "Fletcher Fund, 1919",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-08-27T04:54:25.67Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/390874",
+        "tags": [
+            {
+                "term": "Christ",
+                "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q18338524",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 391231,
+        "isHighlight": false,
+        "accessionNumber": "19.73.39",
+        "accessionYear": "1919",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP815890.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP815890.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "Virgin on the Crescent with Scepter and Starry Crown",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "1516",
+        "objectBeginDate": 1516,
+        "objectEndDate": 1516,
+        "medium": "Engraving",
+        "dimensions": "plate: 4 9/16 x 2 15/16 in. (11.6 x 7.4 cm)",
+        "measurements": [
+            {
+                "elementName": "Plate",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 11.6,
+                    "Width": 7.4
+                }
+            }
+        ],
+        "creditLine": "Fletcher Fund, 1919",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-08-27T04:54:25.67Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/391231",
+        "tags": [
+            {
+                "term": "Madonna and Child",
+                "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q18338475",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 459214,
+        "isHighlight": false,
+        "accessionNumber": "1975.1.862",
+        "accessionYear": "1975",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP282110.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/rl/web-large/DP282110.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/rl/original/DP282111.jpg",
+            "https://images.metmuseum.org/CRDImages/rl/original/DP809588.jpg",
+            "https://images.metmuseum.org/CRDImages/rl/original/DP809589.jpg",
+            "https://images.metmuseum.org/CRDImages/rl/original/DT3364.jpg",
+            "https://images.metmuseum.org/CRDImages/rl/original/DT3365.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "Robert Lehman Collection",
+        "objectName": "Drawing",
+        "title": "Self-portrait, Study of a Hand and a Pillow (recto); Six Studies of Pillows (verso)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "1493",
+        "objectBeginDate": 1493,
+        "objectEndDate": 1493,
+        "medium": "Pen and brown ink",
+        "dimensions": "10 15/16 x 7 15/16 in.  (27.8 x 20.2 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 27.8,
+                    "Width": 20.2
+                }
+            }
+        ],
+        "creditLine": "Robert Lehman Collection, 1975",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/459214",
+        "tags": [
+            {
+                "term": "Hands",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300310193",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q33767"
+            },
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Self-portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300124534",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q192110"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 387378,
+        "isHighlight": false,
+        "accessionNumber": "19.73.236",
+        "accessionYear": "1919",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP268756.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP268756.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "Christ bearing the Cross",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "n.d.",
+        "objectBeginDate": 1485,
+        "objectEndDate": 1528,
+        "medium": "Woodcut",
+        "dimensions": "Sheet: 15 1/4 x 11 1/8 in. (38.7 x 28.2 cm)",
+        "measurements": [
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 38.735077,
+                    "Width": 28.17818
+                }
+            }
+        ],
+        "creditLine": "Gift of Junius Spencer Morgan, 1919",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2020-09-16T18:35:19.457Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/387378",
+        "tags": [
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Cross",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300235443",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q40843"
+            },
+            {
+                "term": "Christ",
+                "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 334819,
+        "isHighlight": false,
+        "accessionNumber": "63.212",
+        "accessionYear": "1963",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP802952.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP802952.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Drawing",
+        "title": "Standing Male Nude Holding a Bow (\"Poynter Apollo\")",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "1501–3",
+        "objectBeginDate": 1501,
+        "objectEndDate": 1503,
+        "medium": "Pen and brown and black ink",
+        "dimensions": "8 5/8 x 5 11/16 in.  (21.9 x 14.5 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 21.9,
+                    "Width": 14.5
+                }
+            }
+        ],
+        "creditLine": "Gift of Mrs. William H. Osborn, 1963",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/334819",
+        "tags": [
+            {
+                "term": "Male Nudes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": true,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 396910,
+        "isHighlight": false,
+        "accessionNumber": "52.581.1",
+        "accessionYear": "1952",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP816462.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP816462.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "Coat of Arms of Albrecht Dürer",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "1523",
+        "objectBeginDate": 1523,
+        "objectEndDate": 1523,
+        "medium": "Woodcut",
+        "dimensions": "sheet: 13 13/16 x 10 1/4 in. (35.1 x 26.1 cm)",
+        "measurements": [
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 35.1,
+                    "Width": 26.1
+                }
+            }
+        ],
+        "creditLine": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1952",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2022-10-20T04:55:06.267Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/396910",
+        "tags": [
+            {
+                "term": "Coat of Arms",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300126352",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q14659"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 336233,
+        "isHighlight": false,
+        "accessionNumber": "19.73.32",
+        "accessionYear": "1919",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP815777.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP815777.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "The Sudarium Displayed by an Angel",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "1516",
+        "objectBeginDate": 1516,
+        "objectEndDate": 1516,
+        "medium": "Etching",
+        "dimensions": "image: 7 3/8 x 5 1/4 in. (18.7 x 13.3 cm) trimmed slightly within plate mark",
+        "measurements": [
+            {
+                "elementName": "Image",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 18.6532,
+                    "Width": 13.335
+                }
+            }
+        ],
+        "creditLine": "Fletcher Fund, 1919",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-08-27T04:54:25.67Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/336233",
+        "tags": [
+            {
+                "term": "Angels",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q18338526",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 359960,
+        "isHighlight": false,
+        "accessionNumber": "68.793.1",
+        "accessionYear": "1968",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP815774.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP815774.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "Agony in the Garden",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "1515",
+        "objectBeginDate": 1515,
+        "objectEndDate": 1515,
+        "medium": "Etching",
+        "dimensions": "Sheet: 8 3/4 × 6 1/8 in. (22.3 × 15.6 cm)",
+        "measurements": [
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 22.3,
+                    "Width": 15.6
+                }
+            }
+        ],
+        "creditLine": "The George Khuner Collection, Gift of Mrs. George Khuner, 1968",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/359960",
+        "tags": [
+            {
+                "term": "Angels",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+            },
+            {
+                "term": "Gardens",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300008090",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q1107656"
+            },
+            {
+                "term": "Suffering",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300055184",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q5780945"
+            },
+            {
+                "term": "Jesus",
+                "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 334816,
+        "isHighlight": false,
+        "accessionNumber": "61.257",
+        "accessionYear": "1961",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP802950.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP802950.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/dp/original/173490.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Drawing",
+        "title": "Music-Making Angels",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "1521",
+        "objectBeginDate": 1521,
+        "objectEndDate": 1521,
+        "medium": "Pen and brown ink",
+        "dimensions": "6 5/8 x 8 3/4 in.  (16.9 x 22.3 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 16.9,
+                    "Width": 22.3
+                }
+            }
+        ],
+        "creditLine": "Gift of Mrs. William H. Osborn, 1961",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/334816",
+        "tags": [
+            {
+                "term": "Music",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300435214",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q638"
+            },
+            {
+                "term": "Lutes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300042101",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q180733"
+            },
+            {
+                "term": "Angels",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 360204,
+        "isHighlight": false,
+        "accessionNumber": "19.73.111",
+        "accessionYear": "1919",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP815897.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP815897.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "Landscape with a Cannon",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "1518",
+        "objectBeginDate": 1518,
+        "objectEndDate": 1518,
+        "medium": "Etching; state i/iii",
+        "dimensions": "sheet: 8 1/2 x 12 5/8 in. (21.7 x 32 cm) fair margin",
+        "measurements": [
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 21.6694,
+                    "Width": 31.9882
+                }
+            }
+        ],
+        "creditLine": "Fletcher Fund, 1919",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2023-09-12T04:54:18.28Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/360204",
+        "tags": [
+            {
+                "term": "Houses",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300005433",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q3947"
+            },
+            {
+                "term": "Cannons",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300036936",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q81103"
+            },
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Landscapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 336220,
+        "isHighlight": false,
+        "accessionNumber": "19.73.113",
+        "accessionYear": "1919",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP815407.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP815407.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "Coat of Arms with a Skull",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "1503",
+        "objectBeginDate": 1503,
+        "objectEndDate": 1503,
+        "medium": "Engraving",
+        "dimensions": "Plate: 8 11/16 x 6 1/4 in. (22.1 x 15.8 cm)\r\nSheet: 9 9/16 x 7 in. (24.3 x 17.9 cm)",
+        "measurements": [
+            {
+                "elementName": "Plate",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 22.0663,
+                    "Width": 15.7957
+                }
+            },
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 24.2888,
+                    "Width": 17.8594
+                }
+            }
+        ],
+        "creditLine": "Fletcher Fund, 1919",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-07-12T04:53:23.993Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/336220",
+        "tags": [
+            {
+                "term": "Skulls",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300191856",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q13147"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Coat of Arms",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300126352",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q14659"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 357117,
+        "isHighlight": false,
+        "accessionNumber": "1975.653.112(22)",
+        "accessionYear": "1975",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DP820400.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DP820400.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/dp/original/MM92600.jpg",
+            "https://images.metmuseum.org/CRDImages/dp/original/DT10617.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Print",
+        "title": "The Bearing of the Cross, from \"The Small Woodcut Passion\"",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "The Small Woodcut Passion",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "1509–10",
+        "objectBeginDate": 1509,
+        "objectEndDate": 1510,
+        "medium": "Hand-colored woodcut",
+        "dimensions": "sheet: 5 x 3 13/16 in. (12.7 x 9.7 cm)",
+        "measurements": [
+            {
+                "elementName": "Sheet",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 12.7,
+                    "Width": 9.7
+                }
+            }
+        ],
+        "creditLine": "The George Khuner Collection, Gift of Mrs. George Khuner, 1975",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Prints",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2023-05-24T04:54:14.68Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/357117",
+        "tags": [
+            {
+                "term": "Buildings",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+            },
+            {
+                "term": "Weapons",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300036926",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q728"
+            },
+            {
+                "term": "Men",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Cross",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300235443",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q40843"
+            }
+        ],
+        "objectWikidata_URL": "",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 436245,
+        "isHighlight": false,
+        "accessionNumber": "17.190.5",
+        "accessionYear": "1917",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164788.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP164788.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ep/original/GermanCat24_Xraynocap.jpg",
+            "https://images.metmuseum.org/CRDImages/ep/original/GermanCat24_IRRnocap1.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 161857,
+                "role": "Artist",
+                "name": "Albrecht Dürer",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Virgin and Child",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Albrecht Dürer",
+        "artistDisplayBio": "German, Nuremberg 1471–1528 Nuremberg",
+        "artistSuffix": "",
+        "artistAlphaSort": "Dürer, Albrecht",
+        "artistNationality": "German",
+        "artistBeginDate": "1471",
+        "artistEndDate": "1528",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "objectDate": "1516",
+        "objectBeginDate": 1516,
+        "objectEndDate": 1516,
+        "medium": "Oil on spruce",
+        "dimensions": "11 x 7 3/8 in. (27.9 x 18.7 cm); set in panel 11 x 8 1/4 in. (27.9 x 22.2 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 27.9,
+                    "Width": 20.955042
+                }
+            }
+        ],
+        "creditLine": "Gift of J. Pierpont Morgan, 1917",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2023-10-18T04:55:33.33Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436245",
+        "tags": [
+            {
+                "term": "Madonna and Child",
+                "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911578",
+        "isTimelineWork": false,
+        "GalleryNumber": ""
+    }
+]

@@ -1,0 +1,1270 @@
+[
+    {
+        "objectID": 437984,
+        "isHighlight": false,
+        "accessionNumber": "1996.435",
+        "accessionYear": "1996",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19279-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-19279-001.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161947,
+                "role": "Artist",
+                "name": "Vincent van Gogh",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "La Berceuse (Woman Rocking a Cradle; Augustine-Alix Pellicot Roulin, 1851–1930)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Vincent van Gogh",
+        "artistDisplayBio": "Dutch, Zundert 1853–1890 Auvers-sur-Oise",
+        "artistSuffix": "",
+        "artistAlphaSort": "Gogh, Vincent van",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1853",
+        "artistEndDate": "1890",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+        "objectDate": "1889",
+        "objectBeginDate": 1889,
+        "objectEndDate": 1889,
+        "medium": "Oil on canvas",
+        "dimensions": "36 1/2 × 29 in. (92.7 × 73.7 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 92.7,
+                    "Weight": 21.772657,
+                    "Width": 73.7
+                }
+            },
+            {
+                "elementName": "Glazing",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 93.02769,
+                    "Width": 73.977646
+                }
+            }
+        ],
+        "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1996, Bequest of Walter H. Annenberg, 2002",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-23T04:53:13.2Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437984",
+        "tags": [
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Flowers",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911437",
+        "isTimelineWork": true,
+        "GalleryNumber": "822"
+    },
+    {
+        "objectID": 436536,
+        "isHighlight": false,
+        "accessionNumber": "1995.535",
+        "accessionYear": "1995",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17161-001.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-17161-001.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161947,
+                "role": "Artist",
+                "name": "Vincent van Gogh",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Women Picking Olives",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Vincent van Gogh",
+        "artistDisplayBio": "Dutch, Zundert 1853–1890 Auvers-sur-Oise",
+        "artistSuffix": "",
+        "artistAlphaSort": "Gogh, Vincent van",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1853",
+        "artistEndDate": "1890",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+        "objectDate": "1889",
+        "objectBeginDate": 1889,
+        "objectEndDate": 1889,
+        "medium": "Oil on canvas",
+        "dimensions": "28 5/8 x 36 in. (72.7 x 91.4 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 72.7,
+                    "Width": 91.4
+                }
+            }
+        ],
+        "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1995, Bequest of Walter H. Annenberg, 2002",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436536",
+        "tags": [
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            },
+            {
+                "term": "Olive Trees",
+                "AAT_URL": null,
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q35417711"
+            },
+            {
+                "term": "Ladders",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300022376",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q168639"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911707",
+        "isTimelineWork": false,
+        "GalleryNumber": "822"
+    },
+    {
+        "objectID": 436525,
+        "isHighlight": false,
+        "accessionNumber": "1993.400.4",
+        "accessionYear": "1993",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT7098.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT7098.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161947,
+                "role": "Artist",
+                "name": "Vincent van Gogh",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Bouquet of Flowers in a Vase",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Vincent van Gogh",
+        "artistDisplayBio": "Dutch, Zundert 1853–1890 Auvers-sur-Oise",
+        "artistSuffix": "",
+        "artistAlphaSort": "Gogh, Vincent van",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1853",
+        "artistEndDate": "1890",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+        "objectDate": "1890",
+        "objectBeginDate": 1890,
+        "objectEndDate": 1890,
+        "medium": "Oil on canvas",
+        "dimensions": "25 5/8 x 21 1/4 in. (65.1 x 54 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 65.1,
+                    "Width": 54
+                }
+            }
+        ],
+        "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1993, Bequest of Walter H. Annenberg, 2002",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-08-16T04:53:03.08Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436525",
+        "tags": [
+            {
+                "term": "Still Life",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+            },
+            {
+                "term": "Flowers",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19905329",
+        "isTimelineWork": false,
+        "GalleryNumber": "822"
+    },
+    {
+        "objectID": 437998,
+        "isHighlight": false,
+        "accessionNumber": "1998.325.1",
+        "accessionYear": "1998",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1946.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1946.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161947,
+                "role": "Artist",
+                "name": "Vincent van Gogh",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Olive Trees",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Vincent van Gogh",
+        "artistDisplayBio": "Dutch, Zundert 1853–1890 Auvers-sur-Oise",
+        "artistSuffix": "",
+        "artistAlphaSort": "Gogh, Vincent van",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1853",
+        "artistEndDate": "1890",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+        "objectDate": "1889",
+        "objectBeginDate": 1853,
+        "objectEndDate": 1890,
+        "medium": "Oil on canvas",
+        "dimensions": "28 5/8 x 36 1/4 in. (72.7 x 92.1 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 72.7,
+                    "Width": 92.1
+                }
+            }
+        ],
+        "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1998, Bequest of Walter H. Annenberg, 2002",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437998",
+        "tags": [
+            {
+                "term": "Olive Trees",
+                "AAT_URL": null,
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q35417711"
+            },
+            {
+                "term": "Landscapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911891",
+        "isTimelineWork": true,
+        "GalleryNumber": "822"
+    },
+    {
+        "objectID": 436534,
+        "isHighlight": false,
+        "accessionNumber": "1993.400.5",
+        "accessionYear": "1993",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP346475.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP346475.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161947,
+                "role": "Artist",
+                "name": "Vincent van Gogh",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Roses",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Vincent van Gogh",
+        "artistDisplayBio": "Dutch, Zundert 1853–1890 Auvers-sur-Oise",
+        "artistSuffix": "",
+        "artistAlphaSort": "Gogh, Vincent van",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1853",
+        "artistEndDate": "1890",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+        "objectDate": "1890",
+        "objectBeginDate": 1890,
+        "objectEndDate": 1890,
+        "medium": "Oil on canvas",
+        "dimensions": "36 5/8 x 29 1/8 in. (93 x 74 cm)",
+        "measurements": [
+            {
+                "elementName": "Glazing",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 93.66269,
+                    "Width": 75.24765
+                }
+            },
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 93,
+                    "Width": 74
+                }
+            }
+        ],
+        "creditLine": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1993, Bequest of Walter H. Annenberg, 2002",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436534",
+        "tags": [
+            {
+                "term": "Roses",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300266246",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q102231"
+            },
+            {
+                "term": "Still Life",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19904856",
+        "isTimelineWork": true,
+        "GalleryNumber": "822"
+    },
+    {
+        "objectID": 336327,
+        "isHighlight": true,
+        "accessionNumber": "48.190.2",
+        "accessionYear": "1948",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/dp/original/DT365509.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/dp/web-large/DT365509.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161947,
+                "role": "Artist",
+                "name": "Vincent van Gogh",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+                "gender": ""
+            }
+        ],
+        "department": "Drawings and Prints",
+        "objectName": "Drawing",
+        "title": "Corridor in the Asylum",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Vincent van Gogh",
+        "artistDisplayBio": "Dutch, Zundert 1853–1890 Auvers-sur-Oise",
+        "artistSuffix": "",
+        "artistAlphaSort": "Gogh, Vincent van",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1853",
+        "artistEndDate": "1890",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+        "objectDate": "September 1889",
+        "objectBeginDate": 1889,
+        "objectEndDate": 1889,
+        "medium": "Oil color and essence over black chalk on pink laid (\"Ingres\") paper",
+        "dimensions": "25 5/8 x 19 5/16in. (65.1 x 49.1cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 65.1,
+                    "Width": 49.1
+                }
+            }
+        ],
+        "creditLine": "Bequest of Abby Aldrich Rockefeller, 1948",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Drawings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/336327",
+        "tags": [
+            {
+                "term": "Hospitals",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300343473",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q16917"
+            },
+            {
+                "term": "Interiors",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29384740",
+        "isTimelineWork": true,
+        "GalleryNumber": ""
+    },
+    {
+        "objectID": 436528,
+        "isHighlight": true,
+        "accessionNumber": "58.187",
+        "accessionYear": "1958",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP346474.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP346474.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161947,
+                "role": "Artist",
+                "name": "Vincent van Gogh",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Irises",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Vincent van Gogh",
+        "artistDisplayBio": "Dutch, Zundert 1853–1890 Auvers-sur-Oise",
+        "artistSuffix": "",
+        "artistAlphaSort": "Gogh, Vincent van",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1853",
+        "artistEndDate": "1890",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+        "objectDate": "1890",
+        "objectBeginDate": 1890,
+        "objectEndDate": 1890,
+        "medium": "Oil on canvas",
+        "dimensions": "29 x 36 1/4 in. (73.7 x 92.1 cm)",
+        "measurements": [
+            {
+                "elementName": "Other",
+                "elementDescription": "plexi",
+                "elementMeasurements": {
+                    "Height": 73.66015,
+                    "Width": 91.916435
+                }
+            },
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 73.7,
+                    "Width": 92.1
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 8.89,
+                    "Height": 97.1552,
+                    "Width": 115.5702
+                }
+            }
+        ],
+        "creditLine": "Gift of Adele R. Levy, 1958",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436528",
+        "tags": [
+            {
+                "term": "Still Life",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+            },
+            {
+                "term": "Flowers",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911667",
+        "isTimelineWork": true,
+        "GalleryNumber": "825"
+    },
+    {
+        "objectID": 436535,
+        "isHighlight": true,
+        "accessionNumber": "1993.132",
+        "accessionYear": "1993",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1567.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1567.jpg",
+        "additionalImages": [
+            "https://images.metmuseum.org/CRDImages/ep/original/LC-EP_1993_132_suppl_CH-004.jpg",
+            "https://images.metmuseum.org/CRDImages/ep/original/LC-EP_1993_132_suppl_CH-003.jpg",
+            "https://images.metmuseum.org/CRDImages/ep/original/LC-EP_1993_132_suppl_CH-002.jpg",
+            "https://images.metmuseum.org/CRDImages/ep/original/LC-EP_1993_132_suppl_CH-001.jpg"
+        ],
+        "constituents": [
+            {
+                "constituentID": 161947,
+                "role": "Artist",
+                "name": "Vincent van Gogh",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Wheat Field with Cypresses",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Vincent van Gogh",
+        "artistDisplayBio": "Dutch, Zundert 1853–1890 Auvers-sur-Oise",
+        "artistSuffix": "",
+        "artistAlphaSort": "Gogh, Vincent van",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1853",
+        "artistEndDate": "1890",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+        "objectDate": "1889",
+        "objectBeginDate": 1889,
+        "objectEndDate": 1889,
+        "medium": "Oil on canvas",
+        "dimensions": "28 7/8 × 36 3/4 in. (73.2 × 93.4 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 73.34264,
+                    "Width": 93.4
+                }
+            },
+            {
+                "elementName": "Glazing",
+                "elementDescription": "See Notes in Description",
+                "elementMeasurements": {
+                    "Height": 75.24765,
+                    "Width": 94.93269
+                }
+            }
+        ],
+        "creditLine": "Purchase, The Annenberg Foundation Gift, 1993",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436535",
+        "tags": [
+            {
+                "term": "Landscapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+            },
+            {
+                "term": "Cypresses",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300343641",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q146911"
+            },
+            {
+                "term": "Summer",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300133099",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q1313"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q18689458",
+        "isTimelineWork": true,
+        "GalleryNumber": "822"
+    },
+    {
+        "objectID": 436533,
+        "isHighlight": false,
+        "accessionNumber": "1992.374",
+        "accessionYear": "1992",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1947.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1947.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161947,
+                "role": "Artist",
+                "name": "Vincent van Gogh",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Shoes",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Vincent van Gogh",
+        "artistDisplayBio": "Dutch, Zundert 1853–1890 Auvers-sur-Oise",
+        "artistSuffix": "",
+        "artistAlphaSort": "Gogh, Vincent van",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1853",
+        "artistEndDate": "1890",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+        "objectDate": "1888",
+        "objectBeginDate": 1888,
+        "objectEndDate": 1888,
+        "medium": "Oil on canvas",
+        "dimensions": "18 x 21 3/4 in. (45.7 x 55.2 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 45.7201,
+                    "Width": 55.2451
+                }
+            }
+        ],
+        "creditLine": "Purchase, The Annenberg Foundation Gift, 1992",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436533",
+        "tags": [
+            {
+                "term": "Still Life",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+            },
+            {
+                "term": "Shoes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300046065",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q22676"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911520",
+        "isTimelineWork": true,
+        "GalleryNumber": "822"
+    },
+    {
+        "objectID": 436524,
+        "isHighlight": false,
+        "accessionNumber": "49.41",
+        "accessionYear": "1949",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP229743.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161947,
+                "role": "Artist",
+                "name": "Vincent van Gogh",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Sunflowers",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Vincent van Gogh",
+        "artistDisplayBio": "Dutch, Zundert 1853–1890 Auvers-sur-Oise",
+        "artistSuffix": "",
+        "artistAlphaSort": "Gogh, Vincent van",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1853",
+        "artistEndDate": "1890",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+        "objectDate": "1887",
+        "objectBeginDate": 1887,
+        "objectEndDate": 1887,
+        "medium": "Oil on canvas",
+        "dimensions": "17 x 24 in. (43.2 x 61 cm)",
+        "measurements": [
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 6.35,
+                    "Height": 66.6751,
+                    "Width": 85.0902
+                }
+            },
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 43.2,
+                    "Width": 61
+                }
+            }
+        ],
+        "creditLine": "Rogers Fund, 1949",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436524",
+        "tags": [
+            {
+                "term": "Still Life",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+            },
+            {
+                "term": "Sunflowers",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300404749",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q171497"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q9213165",
+        "isTimelineWork": false,
+        "GalleryNumber": "825"
+    },
+    {
+        "objectID": 437980,
+        "isHighlight": false,
+        "accessionNumber": "49.30",
+        "accessionYear": "1949",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP130999.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP130999.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161947,
+                "role": "Artist",
+                "name": "Vincent van Gogh",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Cypresses",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Vincent van Gogh",
+        "artistDisplayBio": "Dutch, Zundert 1853–1890 Auvers-sur-Oise",
+        "artistSuffix": "",
+        "artistAlphaSort": "Gogh, Vincent van",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1853",
+        "artistEndDate": "1890",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+        "objectDate": "1889",
+        "objectBeginDate": 1889,
+        "objectEndDate": 1889,
+        "medium": "Oil on canvas",
+        "dimensions": "36 3/4 x 29 1/8 in. (93.4 x 74 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 93.4,
+                    "Width": 74
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 10.795,
+                    "Height": 116.2052,
+                    "Width": 96.5202
+                }
+            },
+            {
+                "elementName": "Other",
+                "elementDescription": "glass",
+                "elementMeasurements": {
+                    "Height": 94.29769,
+                    "Width": 76.517654
+                }
+            }
+        ],
+        "creditLine": "Rogers Fund, 1949",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-24T04:55:48.05Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/437980",
+        "tags": [
+            {
+                "term": "Landscapes",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+            },
+            {
+                "term": "Cypresses",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300343641",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q146911"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q867510",
+        "isTimelineWork": true,
+        "GalleryNumber": "825"
+    },
+    {
+        "objectID": 436529,
+        "isHighlight": false,
+        "accessionNumber": "51.112.3",
+        "accessionYear": "1951",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1396.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1396.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161947,
+                "role": "Artist",
+                "name": "Vincent van Gogh",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "L'Arlésienne: Madame Joseph-Michel Ginoux (Marie Julien, 1848–1911)",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Vincent van Gogh",
+        "artistDisplayBio": "Dutch, Zundert 1853–1890 Auvers-sur-Oise",
+        "artistSuffix": "",
+        "artistAlphaSort": "Gogh, Vincent van",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1853",
+        "artistEndDate": "1890",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+        "objectDate": "1888–89",
+        "objectBeginDate": 1888,
+        "objectEndDate": 1889,
+        "medium": "Oil on canvas",
+        "dimensions": "36 × 29 in. (91.4 × 73.7 cm)",
+        "measurements": [
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 91.4,
+                    "Width": 73.7
+                }
+            },
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 10.16,
+                    "Height": 114.3002,
+                    "Width": 97.1552
+                }
+            },
+            {
+                "elementName": "Glazing",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 92.07519,
+                    "Width": 73.66015
+                }
+            }
+        ],
+        "creditLine": "Bequest of Sam A. Lewisohn, 1951",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436529",
+        "tags": [
+            {
+                "term": "Books",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300028051",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q571"
+            },
+            {
+                "term": "Portraits",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+            },
+            {
+                "term": "Women",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q17519173",
+        "isTimelineWork": true,
+        "GalleryNumber": "825"
+    },
+    {
+        "objectID": 436530,
+        "isHighlight": false,
+        "accessionNumber": "62.24",
+        "accessionYear": "1962",
+        "isPublicDomain": true,
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1494.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1494.jpg",
+        "additionalImages": [],
+        "constituents": [
+            {
+                "constituentID": 161947,
+                "role": "Artist",
+                "name": "Vincent van Gogh",
+                "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+                "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+                "gender": ""
+            }
+        ],
+        "department": "European Paintings",
+        "objectName": "Painting",
+        "title": "Oleanders",
+        "culture": "",
+        "period": "",
+        "dynasty": "",
+        "reign": "",
+        "portfolio": "",
+        "artistRole": "Artist",
+        "artistPrefix": "",
+        "artistDisplayName": "Vincent van Gogh",
+        "artistDisplayBio": "Dutch, Zundert 1853–1890 Auvers-sur-Oise",
+        "artistSuffix": "",
+        "artistAlphaSort": "Gogh, Vincent van",
+        "artistNationality": "Dutch",
+        "artistBeginDate": "1853",
+        "artistEndDate": "1890",
+        "artistGender": "",
+        "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+        "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+        "objectDate": "1888",
+        "objectBeginDate": 1888,
+        "objectEndDate": 1888,
+        "medium": "Oil on canvas",
+        "dimensions": "23 3/4 x 29 in. (60.3 x 73.7 cm)",
+        "measurements": [
+            {
+                "elementName": "Frame",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Depth": 6.6675,
+                    "Height": 81.9152,
+                    "Width": 96.5202
+                }
+            },
+            {
+                "elementName": "Overall",
+                "elementDescription": null,
+                "elementMeasurements": {
+                    "Height": 60.3,
+                    "Width": 73.7
+                }
+            }
+        ],
+        "creditLine": "Gift of Mr. and Mrs. John L. Loeb, 1962",
+        "geographyType": "",
+        "city": "",
+        "state": "",
+        "county": "",
+        "country": "",
+        "region": "",
+        "subregion": "",
+        "locale": "",
+        "locus": "",
+        "excavation": "",
+        "river": "",
+        "classification": "Paintings",
+        "rightsAndReproduction": "",
+        "linkResource": "",
+        "metadataDate": "2024-10-03T04:53:53.567Z",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436530",
+        "tags": [
+            {
+                "term": "Books",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300028051",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q571"
+            },
+            {
+                "term": "Still Life",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+            },
+            {
+                "term": "Flowers",
+                "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+                "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+            }
+        ],
+        "objectWikidata_URL": "https://www.wikidata.org/wiki/Q19911666",
+        "isTimelineWork": true,
+        "GalleryNumber": ""
+    }
+]
