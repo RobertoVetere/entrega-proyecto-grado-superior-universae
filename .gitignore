@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+# Ignorar la clase ChatService.java
+/app/src/main/java/com/robedev/museai/service/ChatService.java
